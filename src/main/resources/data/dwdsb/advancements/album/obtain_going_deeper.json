@@ -1,0 +1,56 @@
+{
+  "parent": "dwdsb:album/obtain_dwdsb",
+  "display": {
+    "icon": {
+      "id": "dwdsb:mirror"
+    },
+    "title": {
+      "text": "Rock and Stone"
+    },
+    "description": {
+      "text": "Collect every Music Disc from Going Deeper"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "find_mirror": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dwdsb:mirror"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "find_rain": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dwdsb:rain"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "find_alone": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dwdsb:alone"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  }
+}

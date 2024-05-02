@@ -1,0 +1,56 @@
+{
+  "parent": "dwdsb:album/obtain_going_deeper",
+  "display": {
+    "icon": {
+      "id": "dwdsb:bean"
+    },
+    "title": {
+      "text": "Dust it Off"
+    },
+    "description": {
+      "text": "Collect every Music Disc from Lost to Time"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "find_bean": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dwdsb:bean"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "find_lyre": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dwdsb:lyre"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "find_ember": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dwdsb:ember"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  }
+}

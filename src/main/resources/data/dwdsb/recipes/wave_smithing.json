@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:prismarine_shard"
+  },
+  "base": {
+    "item": "minecraft:netherite_scrap"
+  },
+  "result": {
+    "id": "dwdsb:wave"
+  },
+  "template": {
+    "item": "dwdsb:unrefined_disc_core"
+  }
+}

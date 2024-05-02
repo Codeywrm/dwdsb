@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "dwdsb:wave",
+    "dwdsb:lost",
+    "dwdsb:watched",
+    "dwdsb:rest",
+    "dwdsb:mirror",
+    "dwdsb:rain",
+    "dwdsb:alone",
+    "dwdsb:bean",
+    "dwdsb:lyre",
+    "dwdsb:ember",
+    "dwdsb:star",
+    "dwdsb:rave",
+    "dwdsb:waltz",
+    "dwdsb:sunset"
+  ]
+}

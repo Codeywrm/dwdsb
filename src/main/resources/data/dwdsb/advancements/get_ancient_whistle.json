@@ -1,0 +1,32 @@
+{
+  "parent": "dwdsb:tune_note_block",
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "text": "Find an Ancient Whistle"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "id": "dwdsb:ancient_whistle"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "Probably Non-corrosive"
+    }
+  },
+  "criteria": {
+    "example": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dwdsb:ancient_whistle"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

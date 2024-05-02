@@ -1,0 +1,191 @@
+{
+  "parent": "dwdsb:album/obtain_journeys_end",
+  "display": {
+    "icon": {
+      "id": "dwdsb:lost"
+    },
+    "title": {
+      "text": "Unforgotten Memories"
+    },
+    "description": {
+      "text": "Here's to you, Jake"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "get_wave": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dwdsb:wave"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "get_lost": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dwdsb:lost"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "get_watched": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dwdsb:watched"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "get_rest": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dwdsb:rest"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "get_mirror": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dwdsb:mirror"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "get_rain": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dwdsb:rain"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "get_alone": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dwdsb:alone"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "get_bean": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dwdsb:bean"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "get_lyre": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dwdsb:lyre"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "get_ember": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dwdsb:ember"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "get_star": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dwdsb:star"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "get_rave": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dwdsb:rave"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "get_waltz": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dwdsb:waltz"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "get_sunset": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dwdsb:sunset"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "rewards": {
+    "experience": 100
+  }
+}

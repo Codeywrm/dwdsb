@@ -1,0 +1,26 @@
+{
+  "parent": "dwdsb:root",
+  "criteria": {
+    "craft_disc_5": {
+      "conditions": {
+        "recipe_id": "minecraft:music_disc_5"
+      },
+      "trigger": "minecraft:recipe_crafted"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "text": "Craft 5"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "id": "minecraft:music_disc_5"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "Alien Vinyl"
+    }
+  }
+}

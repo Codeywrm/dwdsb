@@ -1,0 +1,30 @@
+{
+  "parent": "dwdsb:tune_note_block",
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "text": "Use a Goat Horn"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "id": "minecraft:goat_horn"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "Moonlit Serenade"
+    }
+  },
+  "criteria": {
+    "example": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:goat_horn"
+          ]
+        }
+      }
+    }
+  }
+}

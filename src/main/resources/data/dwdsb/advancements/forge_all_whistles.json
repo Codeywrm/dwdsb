@@ -1,0 +1,68 @@
+{
+  "parent": "dwdsb:get_ancient_whistle",
+  "display": {
+    "icon": {
+      "id": "dwdsb:diamond_whistle"
+    },
+    "title": {
+      "text": "Historical Mixtape"
+    },
+    "description": {
+      "text": "Forge all upgraded whistles"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "forge_amethyst_whistle": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dwdsb:amethyst_whistle"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "forge_gold_whistle": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dwdsb:gold_whistle"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "forge_diamond_whistle": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dwdsb:diamond_whistle"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "forge_emerald_whistle": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dwdsb:emerald_whistle"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  }
+}

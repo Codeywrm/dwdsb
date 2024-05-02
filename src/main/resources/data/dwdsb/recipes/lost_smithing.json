@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:echo_shard"
+  },
+  "base": {
+    "item": "minecraft:netherite_scrap"
+  },
+  "result": {
+    "id": "dwdsb:lost"
+  },
+  "template": {
+    "item": "dwdsb:unrefined_disc_core"
+  }
+}

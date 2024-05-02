@@ -1,0 +1,68 @@
+{
+  "parent": "dwdsb:album/obtain_lost_to_time",
+  "display": {
+    "icon": {
+      "id": "dwdsb:star"
+    },
+    "title": {
+      "text": "Party Crasher"
+    },
+    "description": {
+      "text": "Collect every Music Disc from Journey's End"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "find_star": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dwdsb:star"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "find_rave": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dwdsb:rave"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "find_waltz": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dwdsb:waltz"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "sunset": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dwdsb:sunset"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  }
+}

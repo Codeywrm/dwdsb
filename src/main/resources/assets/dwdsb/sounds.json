@@ -1,0 +1,21 @@
+{
+  "wave": {"sounds":    ["dwdsb:wave"]},
+  "lost": {"sounds":    ["dwdsb:lost"]},
+  "watched": {"sounds": ["dwdsb:watched"]},
+  "rest": {"sounds":    ["dwdsb:rest"]},
+  "mirror": {"sounds":  ["dwdsb:mirror"]},
+  "rain": {"sounds":    ["dwdsb:rain"]},
+  "alone": {"sounds":   ["dwdsb:alone"]},
+  "bean": {"sounds":    ["dwdsb:bean"]},
+  "lyre": {"sounds":    ["dwdsb:lyre"]},
+  "ember": {"sounds":   ["dwdsb:ember"]},
+  "star": {"sounds":    ["dwdsb:star"]},
+  "rave": {"sounds":    ["dwdsb:rave"]},
+  "waltz": {"sounds":   ["dwdsb:waltz"]},
+  "sunset": {"sounds":   ["dwdsb:sunset"]},
+  "jingle_1": {"sounds":  ["dwdsb:jingle_1"]},
+  "jingle_2": {"sounds":  ["dwdsb:jingle_2"]},
+  "jingle_3": {"sounds":  ["dwdsb:jingle_3"]},
+  "jingle_4": {"sounds":  ["dwdsb:jingle_4"]},
+  "jingle_5": {"sounds":  ["dwdsb:jingle_5"]}
+}

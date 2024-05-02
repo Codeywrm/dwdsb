@@ -1,0 +1,9 @@
+{
+	"required": true,
+	"package": "net.codewyrm.dwdsb.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"client": ["SmithingScreenChanger"],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

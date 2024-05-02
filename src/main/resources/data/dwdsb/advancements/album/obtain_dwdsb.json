@@ -1,0 +1,68 @@
+{
+  "parent": "dwdsb:obtain_disc_core",
+  "display": {
+    "icon": {
+      "id": "dwdsb:wave"
+    },
+    "title": {
+      "text": "Lost in Limbo"
+    },
+    "description": {
+      "text": "Collect every Music Disc from Discs Where Discs Shouldn't Be"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "find_wave": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dwdsb:wave"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "find_lost": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dwdsb:lost"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "find_watched": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dwdsb:watched"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "find_rest": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dwdsb:rest"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  }
+}
