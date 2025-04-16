@@ -1,0 +1,116 @@
+{
+  "dwdsb:wave": {
+    "album": "Discs Where Discs Shouldn't Be",
+    "author": "Sir Thomas Jakuus",
+    "cover": "wave_toast",
+    "title": "wave"
+  },
+  "dwdsb:lost": {
+    "album": "Discs Where Discs Shouldn't Be",
+    "author": "Sir Thomas Jakuus",
+    "cover": "lost_toast",
+    "title": "lost"
+  },
+  "dwdsb:watched": {
+    "album": "Discs Where Discs Shouldn't Be",
+    "author": "Sir Thomas Jakuus",
+    "cover": "watched_toast",
+    "title": "watched"
+  },
+  "dwdsb:rest": {
+    "album": "Discs Where Discs Shouldn't Be",
+    "author": "Sir Thomas Jakuus",
+    "cover": "rest_toast",
+    "title": "rest"
+  },
+  "dwdsb:mirror": {
+    "album": "Going Deeper",
+    "author": "Sir Thomas Jakuus",
+    "cover": "mirror_toast",
+    "title": "mirror"
+  },
+  "dwdsb:rain": {
+    "album": "Going Deeper",
+    "author": "Sir Thomas Jakuus",
+    "cover": "rain_toast",
+    "title": "rain"
+  },
+  "dwdsb:alone": {
+    "album": "Going Deeper",
+    "author": "Sir Thomas Jakuus",
+    "cover": "alone_toast",
+    "title": "alone"
+  },
+  "dwdsb:bean": {
+    "album": "Lost to Time",
+    "author": "Sir Thomas Jakuus",
+    "cover": "bean_toast",
+    "title": "bean"
+  },
+  "dwdsb:lyre": {
+    "album": "Lost to Time",
+    "author": "Sir Thomas Jakuus",
+    "cover": "lyre_toast",
+    "title": "lyre"
+  },
+  "dwdsb:ember": {
+    "album": "Lost to Time",
+    "author": "Sir Thomas Jakuus",
+    "cover": "ember_toast",
+    "title": "ember"
+  },
+  "dwdsb:star": {
+    "album": "Journey's End",
+    "author": "Sir Thomas Jakuus",
+    "cover": "star_toast",
+    "title": "star"
+  },
+  "dwdsb:rave": {
+    "album": "Journey's End",
+    "author": "Sir Thomas Jakuus",
+    "cover": "rave_toast",
+    "title": "rave"
+  },
+  "dwdsb:waltz": {
+    "album": "Journey's End",
+    "author": "Sir Thomas Jakuus",
+    "cover": "waltz_toast",
+    "title": "waltz"
+  },
+  "dwdsb:sunset": {
+    "album": "Journey's End",
+    "author": "Sir Thomas Jakuus",
+    "cover": "sunset_toast",
+    "title": "sunset"
+  },
+  "dwdsb:ancient_jingle": {
+    "album": "DWDSB Whistles",
+    "author": "Sir Thomas Jakuus",
+    "cover": "whistles/ancient_toast",
+    "title": "Ancient Jingle"
+  },
+  "dwdsb:amethyst_jingle": {
+    "album": "DWDSB Whistles",
+    "author": "Sir Thomas Jakuus",
+    "cover": "whistles/amethyst_toast",
+    "title": "Amethyst Jingle"
+  },
+  "dwdsb:gold_jingle": {
+    "album": "DWDSB Whistles",
+    "author": "Sir Thomas Jakuus",
+    "cover": "whistles/gold_toast",
+    "title": "Gold Jingle"
+  },
+  "dwdsb:diamond_jingle": {
+    "album": "DWDSB Whistles",
+    "author": "Sir Thomas Jakuus",
+    "cover": "whistles/diamond_toast",
+    "title": "Diamond Jingle"
+  },
+  "dwdsb:emerald_jingle": {
+    "album": "DWDSB Whistles",
+    "author": "Sir Thomas Jakuus",
+    "cover": "whistles/emerald_toast",
+    "title": "Emerald Jingle"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "comparator_output": 7,
+  "description": {
+    "translate": "item.dwdsb.alone.desc"
+  },
+  "length_in_seconds": 167,
+  "sound_event": "dwdsb:alone"
+}

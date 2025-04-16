@@ -1,0 +1,358 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:note_block"
+    },
+    "title": {
+      "translate": "advancements.dwdsb.all_block_instruments.title"
+    },
+    "description": {
+      "translate": "advancements.dwdsb.all_block_instruments.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "dwdsb:note_block_stuff/tune_note_block",
+  "criteria": {
+    "Banjo": {
+      "trigger": "minecraft:default_block_use",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "block": {
+                "blocks": "minecraft:note_block",
+                "state": {
+                  "instrument": "banjo"
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "Base Drum": {
+      "trigger": "minecraft:default_block_use",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "block": {
+                "blocks": "minecraft:note_block",
+                "state": {
+                  "instrument": "basedrum"
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "Bass": {
+      "trigger": "minecraft:default_block_use",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "block": {
+                "blocks": "minecraft:note_block",
+                "state": {
+                  "instrument": "bass"
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "Bell": {
+      "trigger": "minecraft:default_block_use",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "block": {
+                "blocks": "minecraft:note_block",
+                "state": {
+                  "instrument": "bell"
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "Bit": {
+      "trigger": "minecraft:default_block_use",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "block": {
+                "blocks": "minecraft:note_block",
+                "state": {
+                  "instrument": "bit"
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "Chime": {
+      "trigger": "minecraft:default_block_use",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "block": {
+                "blocks": "minecraft:note_block",
+                "state": {
+                  "instrument": "chime"
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "Cow Bell": {
+      "trigger": "minecraft:default_block_use",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "block": {
+                "blocks": "minecraft:note_block",
+                "state": {
+                  "instrument": "cow_bell"
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "Didgeridoo": {
+      "trigger": "minecraft:default_block_use",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "block": {
+                "blocks": "minecraft:note_block",
+                "state": {
+                  "instrument": "didgeridoo"
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "Flute": {
+      "trigger": "minecraft:default_block_use",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "block": {
+                "blocks": "minecraft:note_block",
+                "state": {
+                  "instrument": "flute"
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "Guitar": {
+      "trigger": "minecraft:default_block_use",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "block": {
+                "blocks": "minecraft:note_block",
+                "state": {
+                  "instrument": "guitar"
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "Harp": {
+      "trigger": "minecraft:default_block_use",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "block": {
+                "blocks": "minecraft:note_block",
+                "state": {
+                  "instrument": "harp"
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "Hat": {
+      "trigger": "minecraft:default_block_use",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "block": {
+                "blocks": "minecraft:note_block",
+                "state": {
+                  "instrument": "hat"
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "Iron Xylophone": {
+      "trigger": "minecraft:default_block_use",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "block": {
+                "blocks": "minecraft:note_block",
+                "state": {
+                  "instrument": "iron_xylophone"
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "Pling": {
+      "trigger": "minecraft:default_block_use",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "block": {
+                "blocks": "minecraft:note_block",
+                "state": {
+                  "instrument": "pling"
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "Snare": {
+      "trigger": "minecraft:default_block_use",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "block": {
+                "blocks": "minecraft:note_block",
+                "state": {
+                  "instrument": "snare"
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "Xylophone": {
+      "trigger": "minecraft:default_block_use",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "block": {
+                "blocks": "minecraft:note_block",
+                "state": {
+                  "instrument": "xylophone"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "Banjo"
+    ],
+    [
+      "Base Drum"
+    ],
+    [
+      "Bass"
+    ],
+    [
+      "Bell"
+    ],
+    [
+      "Bit"
+    ],
+    [
+      "Chime"
+    ],
+    [
+      "Cow Bell"
+    ],
+    [
+      "Didgeridoo"
+    ],
+    [
+      "Flute"
+    ],
+    [
+      "Guitar"
+    ],
+    [
+      "Harp"
+    ],
+    [
+      "Hat"
+    ],
+    [
+      "Iron Xylophone"
+    ],
+    [
+      "Pling"
+    ],
+    [
+      "Snare"
+    ],
+    [
+      "Xylophone"
+    ]
+  ]
+}

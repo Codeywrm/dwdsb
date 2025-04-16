@@ -1,0 +1,33 @@
+{
+  "parent": "dwdsb:root",
+  "criteria": {
+    "Any C418 music disc": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#minecraft:creeper_drop_music_discs"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.dwdsb.first_vanilla_disc.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:music_disc_13"
+    },
+    "title": {
+      "translate": "advancements.dwdsb.first_vanilla_disc.title"
+    }
+  },
+  "requirements": [
+    [
+      "Any C418 music disc"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

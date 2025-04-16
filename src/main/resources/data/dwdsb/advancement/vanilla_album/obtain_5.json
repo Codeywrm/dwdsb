@@ -1,0 +1,33 @@
+{
+  "parent": "dwdsb:vanilla_album/obtain_pigstep",
+  "criteria": {
+    "5": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:music_disc_5"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.dwdsb.obtain_5.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:music_disc_5"
+    },
+    "title": {
+      "translate": "advancements.dwdsb.obtain_5.title"
+    }
+  },
+  "requirements": [
+    [
+      "5"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,124 @@
+{
+  "item.dwdsb.disc_core": "ǝɹoƆ ɔsᴉᗡ",
+  "item.dwdsb.wave": "ɔsᴉᗡ ɔᴉsnW",
+  "item.dwdsb.wave.desc": "ǝʌɐʍ - snnʞɐՐ sɐɯoɥ⟘ ɹᴉS",
+  "item.dwdsb.lost": "ɔsᴉᗡ ɔᴉsnW",
+  "item.dwdsb.lost.desc": "ʇsol - snnʞɐՐ sɐɯoɥ⟘ ɹᴉS",
+  "item.dwdsb.watched": "ɔsᴉᗡ ɔᴉsnW",
+  "item.dwdsb.watched.desc": "pǝɥɔʇɐʍ - snnʞɐՐ sɐɯoɥ⟘ ɹᴉS",
+  "item.dwdsb.rest": "ɔsᴉᗡ ɔᴉsnW",
+  "item.dwdsb.rest.desc": "ʇsǝɹ - snnʞɐՐ sɐɯoɥ⟘ ɹᴉS",
+  "item.dwdsb.mirror": "ɔsᴉᗡ ɔᴉsnW",
+  "item.dwdsb.mirror.desc": "ɹoɹɹᴉɯ - snnʞɐՐ sɐɯoɥ⟘ ɹᴉS",
+  "item.dwdsb.rain": "ɔsᴉᗡ ɔᴉsnW",
+  "item.dwdsb.rain.desc": "uᴉɐɹ - snnʞɐՐ sɐɯoɥ⟘ ɹᴉS",
+  "item.dwdsb.alone": "ɔsᴉᗡ ɔᴉsnW",
+  "item.dwdsb.alone.desc": "ǝuolɐ - snnʞɐՐ sɐɯoɥ⟘ ɹᴉS",
+  "item.dwdsb.bean": "ɔsᴉᗡ ɔᴉsnW",
+  "item.dwdsb.bean.desc": "uɐǝq - snnʞɐՐ sɐɯoɥ⟘ ɹᴉS",
+  "item.dwdsb.lyre": "ɔsᴉᗡ ɔᴉsnW",
+  "item.dwdsb.lyre.desc": "uɐǝq - snnʞɐՐ sɐɯoɥ⟘ ɹᴉS",
+  "item.dwdsb.ember": "ɔsᴉᗡ ɔᴉsnW",
+  "item.dwdsb.ember.desc": "ɹǝqɯǝ - snnʞɐՐ sɐɯoɥ⟘ ɹᴉS",
+  "item.dwdsb.star": "ɔsᴉᗡ ɔᴉsnW",
+  "item.dwdsb.star.desc": "ɹɐʇs - snnʞɐՐ sɐɯoɥ⟘ ɹᴉS",
+  "item.dwdsb.rave": "ɔsᴉᗡ ɔᴉsnW",
+  "item.dwdsb.rave.desc": "ǝʌɐɹ - snnʞɐՐ sɐɯoɥ⟘ ɹᴉS",
+  "item.dwdsb.waltz": "ɔsᴉᗡ ɔᴉsnW",
+  "item.dwdsb.waltz.desc": "zʇlɐʍ - snnʞɐՐ sɐɯoɥ⟘ ɹᴉS",
+  "item.dwdsb.sunset": "ɔsᴉᗡ ɔᴉsnW",
+  "item.dwdsb.sunset.desc": "ʇǝsuns - snnʞɐՐ sɐɯoɥ⟘ ɹᴉS",
+  "item.dwdsb.ancient_whistle": "ǝlʇsᴉɥM ʇuǝᴉɔuⱯ",
+  "item.dwdsb.amethyst_whistle": "ǝlʇsᴉɥM ʇsʎɥʇǝɯⱯ",
+  "item.dwdsb.gold_whistle": "ǝlʇsᴉɥM plo⅁",
+  "item.dwdsb.diamond_whistle": "ǝlʇsᴉɥM puoɯɐᴉᗡ",
+  "item.dwdsb.emerald_whistle": "ǝlʇsᴉɥM plɐɹǝɯƎ",
+  "item.dwdsb.melody_pottery_sherd": "pɹǝɥS ʎɹǝʇʇoԀ ʎpolǝW",
+  "item.dwdsb.record_pottery_sherd": "pɹǝɥS ʎɹǝʇʇoԀ pɹoɔǝᴚ",
+  "item.dwdsb.solo_pottery_sherd": "pɹǝɥS ʎɹǝʇʇoԀ oloS",
+  "itemgroup.dwdsb.dwdsb_items": "ǝᗺ ʇ'uplnoɥS sɔsᴉᗡ ǝɹǝɥM sɔsᴉᗡ",
+
+  "advancements.dwdsb.root.title": "ɹǝpuoM ןɐɔı̣snW",
+  "advancements.dwdsb.root.description": "ʇsǝnbuoɔ ɔı̣ʇsı̣ʇɹɐ uɐ ɟo ʇɹɐʇs ǝɥꓕ",
+
+  "": "Advancements under dwdsb_album",
+  "advancements.dwdsb.first_core.title": "do⟘ ǝɥʇ ɯoɹℲ",
+  "advancements.dwdsb.first_core.description": "ǝɹoƆ ɔsᴉᗡ ɐ puᴉℲ",
+
+  "advancements.dwdsb.obtain_dwdsb.title": "oqɯᴉꞀ uᴉ ʇsoꞀ",
+  "advancements.dwdsb.obtain_dwdsb.description": "ǝᗺ ʇ'uplnoɥS sɔsᴉᗡ ǝɹǝɥM sɔsᴉᗡ ɯoɹɟ ɔsᴉp ɔᴉsnɯ ʎɹǝʌǝ ʇɔǝlloƆ",
+
+  "advancements.dwdsb.obtain_dwdsb_discs.title": "sǝᴉɹoɯǝW ǝlqɐʇʇǝɓɹoɟuՈ",
+  "advancements.dwdsb.obtain_dwdsb_discs.description": "ǝʞɐՐ ,noʎ oʇ s'ǝɹǝH",
+
+  "advancements.dwdsb.obtain_going_deeper.title": "ǝuoʇS puɐ ʞɔoᴚ",
+  "advancements.dwdsb.obtain_going_deeper.description": "ɹǝdǝǝᗡ ɓuᴉo⅁ ɯoɹɟ ɔsᴉp ɔᴉsnɯ ʎɹǝʌǝ ʇɔǝlloƆ",
+
+  "advancements.dwdsb.obtain_journeys_end.title": "ɹǝɥsɐɹƆ ʎʇɹɐԀ",
+  "advancements.dwdsb.obtain_journeys_end.description": "puƎ s'ʎǝuɹnoՐ ɯoɹɟ ɔsᴉp ɔᴉsnɯ ʎɹǝʌǝ ʇɔǝlloƆ",
+
+  "advancements.dwdsb.obtain_lost_to_time.title": "ɟɟO ʇᴉ ʇsnᗡ",
+  "advancements.dwdsb.obtain_lost_to_time.description": "ǝɯᴉ⟘ oʇ ʇsoꞀ ɯoɹɟ ɔsᴉp ɔᴉsnɯ ʎɹǝʌǝ ʇɔǝlloƆ",
+
+  "": "Advancements under instruments",
+  "advancements.dwdsb.find_whistle.title": "ǝʌᴉsoɹɹoɔ-uoN ʎlqɐqoɹԀ",
+  "advancements.dwdsb.find_whistle.description": "ǝlʇsᴉɥM ʇuǝᴉɔuⱯ uɐ ɹǝʌoɔsᴉᗡ",
+
+  "advancements.dwdsb.forge_whistles.title": "ǝdɐʇxᴉW lɐɔᴉɹoʇsᴉH",
+  "advancements.dwdsb.forge_whistles.description": "sǝlʇsᴉɥʍ pǝpɐɹɓdn llɐ ǝɓɹoℲ",
+
+  "advancements.dwdsb.play_all_goat_horns.title": "suɹoH ɟo spɹǝH ǝɥʇ ɹɐǝH",
+  "advancements.dwdsb.play_all_goat_horns.description": "!suɹoH ʇɐo⅁ ǝɥʇ ꞀꞀⱯ ǝɹɐlᗺ",
+
+  "advancements.dwdsb.play_goat_horn.title": "ʇsɐɔpɐoɹᗺ uoᴉɥsɐℲ plO",
+  "advancements.dwdsb.play_goat_horn.description": "uɹoH ʇɐo⅁ ɐ ʇoo⟘",
+
+  "": "Advancements under note_block_stuff",
+  "advancements.dwdsb.all_block_instruments.title": "ɔᴉsnW ɟo sɹolǝɥɔɐᗺ",
+  "advancements.dwdsb.all_block_instruments.description": "sʞɔolq ʇuǝɹǝɟɟᴉp ɓuᴉsn ʇuǝɯnɹʇsuᴉ ʞɔolᗺ ǝʇoN ǝnbᴉun ʎɹǝʌǝ ǝunʇ ʎllɐnuɐW",
+
+  "advancements.dwdsb.all_head_instruments.title": "GɯɐɹɓoɹԀ ǝʇɐnpɐɹ⅁",
+  "advancements.dwdsb.all_head_instruments.description": "¡spɐǝɥ qoɯ llɐ puɐ...",
+
+  "advancements.dwdsb.tune_note_block.title": "ǝɔᴉʇɔɐɹԀ uI ɹǝsodɯoƆ",
+  "advancements.dwdsb.tune_note_block.description": "ʞɔolᗺ ǝʇoN ɐ ǝunʇ ʎllɐnuɐW",
+
+  "": "Advancements under sherd_stuff",
+  "advancements.dwdsb.all_sherds.title": "ǝʇsɐ⟘ poo⅁",
+  "advancements.dwdsb.all_sherds.description": "¡spɹǝɥs ʎɹǝʇʇod ꞀꞀⱯ ɥʇɹɐǝuՈ",
+
+  "advancements.dwdsb.dwdsb_sherds.title": "sǝɹoɔS ɔᴉɥdɐɹ⅁",
+  "advancements.dwdsb.dwdsb_sherds.description": "spɹǝɥs pǝɹᴉdsuᴉ ʎllɐɔᴉsnɯ ǝǝɹɥʇ llɐ puᴉℲ",
+
+  "advancements.dwdsb.first_sherd.title": "sǝʎƎ ʎW oʇ ɔᴉsnW",
+  "advancements.dwdsb.first_sherd.description": "ʞɔolq snoᴉɔᴉdsns ɐ ɯoɹɟ pɹǝɥs ɐ ɥʇɹɐǝuՈ",
+
+  "": "Advancements under vanilla_album",
+  "advancements.dwdsb.first_vanilla_disc.title": "ɓuᴉuuᴉɓǝᗺ",
+  "advancements.dwdsb.first_vanilla_disc.description": "ɹǝdǝǝɹɔ ɐ llᴉʞ oʇ uoʇǝlǝʞs ɐ ʞɔᴉɹ⟘",
+
+  "advancements.dwdsb.obtain_5.title": "ʎɹʇsǝɔuⱯ",
+  "advancements.dwdsb.obtain_5.description": "sǝᴉʇᴉƆ ʇuǝᴉɔuⱯ ɯoɹɟ pǝɓuǝʌɐɔs sʇuǝɯɓɐɹℲ ɔsᴉᗡ ǝuᴉu ǝuᴉqɯoƆ",
+
+  "advancements.dwdsb.obtain_otherside.title": "ɯoolᗺ oʇ ʇɟǝꞀ",
+  "advancements.dwdsb.obtain_otherside.description": "sǝɔɐld ʎɹɐɔs ɟo ʎʇǝᴉɹɐʌ ɐ ɯoɹɟ ǝpᴉsɹǝɥʇo puᴉℲ",
+
+  "advancements.dwdsb.obtain_pigstep.title": "ʍolǝᗺ oS",
+  "advancements.dwdsb.obtain_pigstep.description": "suᴉlɓᴉԀ ʎɹɓuɐ ɟo ɥɔʇɐʍ ǝɥʇ ɹǝpun dǝʇsɓᴉԀ lɐǝʇS",
+
+  "advancements.dwdsb.obtain_relic.title": "ɯooᴚ ɹɐᴉlᴉɯɐℲ Ɐ",
+  "advancements.dwdsb.obtain_relic.description": "ǝʇᴉs ɓᴉp suᴉnᴚ lᴉɐɹ⟘ ɐ ɯoɹɟ ɔᴉlǝᴚ ɥʇɹɐǝuՈ",
+
+  "advancements.dwdsb.obtain_trail_chamber_discs.title": "xoqǝlzznԀ",
+  "advancements.dwdsb.obtain_trail_chamber_discs.description": "uᴉɥʇᴉʍ sɔsᴉp ɔᴉsnɯ ǝǝɹɥʇ llɐ ɓuᴉɹǝɥʇɐɓ ,sɹǝqɯɐɥƆ lɐᴉɹ⟘ ʎʞɔᴉɹʇ ǝsɹǝʌɐɹ⟘",
+
+  "advancements.dwdsb.obtain_vanilla_discs.title": "ʇɟɐɹɔǝuᴉW",
+  "advancements.dwdsb.obtain_vanilla_discs.description": "ɔsᴉp ɔᴉsnɯ ɐllᴉuɐʌ ʎɹǝʌǝ uᴉɐʇqO",
+
+  "": "Subtitles",
+  "subtitle.dwdsb.ancient_jingle.description": "sǝlʇsᴉɥʍ ǝlʇsᴉɥM ʇuǝᴉɔuⱯ",
+  "subtitle.dwdsb.amethyst_jingle.description": "sɓuᴉɹ ǝlʇsᴉɥM ʇsʎɥʇǝɯⱯ",
+  "subtitle.dwdsb.gold_jingle.description": "sʍollǝq ǝlʇsᴉɥM plo⅁",
+  "subtitle.dwdsb.diamond_jingle.description": "sǝlqɯnɹɓ ǝlʇsᴉɥM puoɯɐᴉᗡ",
+  "subtitle.dwdsb.emerald_jingle.description": "sɓuᴉs ǝlʇsᴉɥM plɐɹǝɯƎ"
+}

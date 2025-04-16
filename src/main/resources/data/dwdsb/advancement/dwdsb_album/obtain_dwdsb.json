@@ -1,0 +1,72 @@
+{
+  "parent": "dwdsb:dwdsb_album/first_core",
+  "criteria": {
+    "lost": {
+      "conditions": {
+        "items": [
+          {
+            "items": "dwdsb:lost"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "rest": {
+      "conditions": {
+        "items": [
+          {
+            "items": "dwdsb:rest"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "watched": {
+      "conditions": {
+        "items": [
+          {
+            "items": "dwdsb:watched"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "wave": {
+      "conditions": {
+        "items": [
+          {
+            "items": "dwdsb:wave"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.dwdsb.obtain_dwdsb.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "dwdsb:wave"
+    },
+    "title": {
+      "translate": "advancements.dwdsb.obtain_dwdsb.title"
+    }
+  },
+  "requirements": [
+    [
+      "wave"
+    ],
+    [
+      "lost"
+    ],
+    [
+      "watched"
+    ],
+    [
+      "rest"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

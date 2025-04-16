@@ -1,0 +1,8 @@
+{
+  "comparator_output": 9,
+  "description": {
+    "translate": "item.dwdsb.lyre.desc"
+  },
+  "length_in_seconds": 215,
+  "sound_event": "dwdsb:lyre"
+}

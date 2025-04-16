@@ -1,0 +1,224 @@
+{
+  "dwdsb:recipes/tools/emerald_whistle_smithing": {
+    "criteria": {
+      "has_ancient_whistle": "2025-03-25 20:00:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-25 20:00:51 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-25 20:00:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-25 20:00:54 -0500"
+    },
+    "done": true
+  },
+  "dwdsb:recipes/tools/gold_whistle_smithing": {
+    "criteria": {
+      "has_ancient_whistle": "2025-03-25 20:00:20 -0500"
+    },
+    "done": true
+  },
+  "dwdsb:recipes/tools/amethyst_whistle_smithing": {
+    "criteria": {
+      "has_ancient_whistle": "2025-03-25 20:00:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/craft_decorated_pot_using_only_sherds": {
+    "criteria": {
+      "pot_crafted_using_only_sherds": "2025-03-25 20:01:48 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-25 20:00:51 -0500"
+    },
+    "done": true
+  },
+  "dwdsb:sherd_stuff/first_sherd": {
+    "criteria": {
+      "Find any sherd": "2025-03-25 20:01:39 -0500"
+    },
+    "done": true
+  },
+  "dwdsb:dwdsb_album/obtain_dwdsb_discs": {
+    "criteria": {
+      "get_mirror": "2025-03-25 20:01:21 -0500",
+      "get_rest": "2025-03-25 20:01:20 -0500"
+    },
+    "done": false
+  },
+  "dwdsb:dwdsb_album/obtain_going_deeper": {
+    "criteria": {
+      "mirror": "2025-03-25 20:01:21 -0500"
+    },
+    "done": false
+  },
+  "dwdsb:sherd_stuff/all_sherds": {
+    "criteria": {
+      "Solo Pottery Sherd": "2025-03-25 20:01:41 -0500",
+      "Melody Pottery Sherd": "2025-03-25 20:01:39 -0500",
+      "Record Pottery Sherd": "2025-03-25 20:01:40 -0500"
+    },
+    "done": false
+  },
+  "dwdsb:recipes/tools/diamond_whistle_smithing": {
+    "criteria": {
+      "has_ancient_whistle": "2025-03-25 20:00:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-25 20:00:51 -0500"
+    },
+    "done": true
+  },
+  "dwdsb:recipes/tools/ember_smithing": {
+    "criteria": {
+      "has_disc_core": "2025-03-25 20:00:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-03-25 20:01:39 -0500"
+    },
+    "done": false
+  },
+  "dwdsb:recipes/tools/mirror_smithing": {
+    "criteria": {
+      "has_disc_core": "2025-03-25 20:00:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-03-25 20:00:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-03-25 20:01:12 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-25 20:00:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-25 20:00:51 -0500"
+    },
+    "done": true
+  },
+  "dwdsb:recipes/tools/rain_smithing": {
+    "criteria": {
+      "has_disc_core": "2025-03-25 20:00:39 -0500"
+    },
+    "done": true
+  },
+  "dwdsb:recipes/tools/wave_smithing": {
+    "criteria": {
+      "has_disc_core": "2025-03-25 20:00:39 -0500"
+    },
+    "done": true
+  },
+  "dwdsb:root": {
+    "criteria": {
+      "Have a musical item": "2025-03-25 20:00:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-25 20:00:54 -0500"
+    },
+    "done": true
+  },
+  "dwdsb:dwdsb_album/obtain_dwdsb": {
+    "criteria": {
+      "rest": "2025-03-25 20:01:20 -0500"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2025-03-25 20:00:30 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-03-25 20:00:42 -0500"
+    },
+    "done": true
+  },
+  "dwdsb:instruments/forge_whistles": {
+    "criteria": {
+      "Amethyst Whistle": "2025-03-25 20:00:20 -0500"
+    },
+    "done": false
+  },
+  "dwdsb:sherd_stuff/dwdsb_sherds": {
+    "criteria": {
+      "Solo Pottery Sherd": "2025-03-25 20:01:41 -0500",
+      "Melody Pottery Sherd": "2025-03-25 20:01:39 -0500",
+      "Record Pottery Sherd": "2025-03-25 20:01:40 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_trapdoor": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-25 20:00:51 -0500"
+    },
+    "done": true
+  },
+  "dwdsb:recipes/tools/lost_smithing": {
+    "criteria": {
+      "has_disc_core": "2025-03-25 20:00:39 -0500"
+    },
+    "done": true
+  },
+  "dwdsb:instruments/find_whistle": {
+    "criteria": {
+      "Ancient Whistle": "2025-03-25 20:00:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-03-25 20:01:37 -0500"
+    },
+    "done": true
+  },
+  "dwdsb:dwdsb_album/first_core": {
+    "criteria": {
+      "Unrefined Disc Core": "2025-03-25 20:00:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-03-25 20:01:39 -0500"
+    },
+    "done": true
+  },
+  "DataVersion": 4325
+}

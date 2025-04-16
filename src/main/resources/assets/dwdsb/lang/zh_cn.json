@@ -1,0 +1,124 @@
+{
+  "item.dwdsb.disc_core": "生音心",
+  "item.dwdsb.wave": "音乐唱片",
+  "item.dwdsb.wave.desc": "Sir Thomas Jakuus - wave",
+  "item.dwdsb.lost": "音乐唱片",
+  "item.dwdsb.lost.desc": "Sir Thomas Jakuus - lost",
+  "item.dwdsb.watched": "音乐唱片",
+  "item.dwdsb.watched.desc": "Sir Thomas Jakuus - watched",
+  "item.dwdsb.rest": "音乐唱片",
+  "item.dwdsb.rest.desc": "Sir Thomas Jakuus - rest",
+  "item.dwdsb.mirror": "音乐唱片",
+  "item.dwdsb.mirror.desc": "Sir Thomas Jakuus - mirror",
+  "item.dwdsb.rain": "音乐唱片",
+  "item.dwdsb.rain.desc": "Sir Thomas Jakuus - rain",
+  "item.dwdsb.alone": "音乐唱片",
+  "item.dwdsb.alone.desc": "Sir Thomas Jakuus - alone",
+  "item.dwdsb.bean": "音乐唱片",
+  "item.dwdsb.bean.desc": "Sir Thomas Jakuus - bean",
+  "item.dwdsb.lyre": "音乐唱片",
+  "item.dwdsb.lyre.desc": "Sir Thomas Jakuus - lyre",
+  "item.dwdsb.ember": "音乐唱片",
+  "item.dwdsb.ember.desc": "Sir Thomas Jakuus - ember",
+  "item.dwdsb.star": "音乐唱片",
+  "item.dwdsb.star.desc": "Sir Thomas Jakuus - star",
+  "item.dwdsb.rave": "音乐唱片",
+  "item.dwdsb.rave.desc": "Sir Thomas Jakuus - rave",
+  "item.dwdsb.waltz": "音乐唱片",
+  "item.dwdsb.waltz.desc": "Sir Thomas Jakuus - waltz",
+  "item.dwdsb.sunset": "音乐唱片",
+  "item.dwdsb.sunset.desc": "Sir Thomas Jakuus - sunset",
+  "item.dwdsb.ancient_whistle": "古哨子",
+  "item.dwdsb.amethyst_whistle": "紫晶哨子",
+  "item.dwdsb.gold_whistle": "金哨子",
+  "item.dwdsb.diamond_whistle": "钻石哨子",
+  "item.dwdsb.emerald_whistle": "绿宝石哨子",
+  "item.dwdsb.melody_pottery_sherd": "调子纹样陶片",
+  "item.dwdsb.record_pottery_sherd": "歌碟纹样陶片",
+  "item.dwdsb.solo_pottery_sherd": "独奏纹样陶片",
+  "itemgroup.dwdsb.dwdsb_items": "Discs Where Discs Shouldn't Be",
+
+  "advancements.dwdsb.root.title": "Musical Wonder",
+  "advancements.dwdsb.root.description": "The start of an artistic conquest",
+
+  "": "Advancements under dwdsb_album",
+  "advancements.dwdsb.first_core.title": "From the Top",
+  "advancements.dwdsb.first_core.description": "Find a Disc Core",
+
+  "advancements.dwdsb.obtain_dwdsb.title": "Lost in Limbo",
+  "advancements.dwdsb.obtain_dwdsb.description": "Collect every music disc from Discs Where Discs Shouldn't Be",
+
+  "advancements.dwdsb.obtain_dwdsb_discs.title": "Unforgettable Memories",
+  "advancements.dwdsb.obtain_dwdsb_discs.description": "Here's to you, Jake",
+
+  "advancements.dwdsb.obtain_going_deeper.title": "Rock and Stone",
+  "advancements.dwdsb.obtain_going_deeper.description": "Collect every music disc from Going Deeper",
+
+  "advancements.dwdsb.obtain_journeys_end.title": "Party Crasher",
+  "advancements.dwdsb.obtain_journeys_end.description": "Collect every music disc from Journey's End",
+
+  "advancements.dwdsb.obtain_lost_to_time.title": "Dust it Off",
+  "advancements.dwdsb.obtain_lost_to_time.description": "Collect every music disc from Lost to Time",
+
+  "": "Advancements under instruments",
+  "advancements.dwdsb.find_whistle.title": "Probably Non-corrosive",
+  "advancements.dwdsb.find_whistle.description": "Discover an Ancient Whistle",
+
+  "advancements.dwdsb.forge_whistles.title": "Historical Mixtape",
+  "advancements.dwdsb.forge_whistles.description": "Forge all upgraded whistles",
+
+  "advancements.dwdsb.play_all_goat_horns.title": "Hear the Herds of Horns",
+  "advancements.dwdsb.play_all_goat_horns.description": "Blare ALL the Goat Horns!",
+
+  "advancements.dwdsb.play_goat_horn.title": "Old Fashion Broadcast",
+  "advancements.dwdsb.play_goat_horn.description": "Toot a Goat Horn",
+
+  "": "Advancements under note_block_stuff",
+  "advancements.dwdsb.all_block_instruments.title": "Bachelors of Music",
+  "advancements.dwdsb.all_block_instruments.description": "Manually tune every unique Note Block instrument using different blocks",
+
+  "advancements.dwdsb.all_head_instruments.title": "Graduate Program",
+  "advancements.dwdsb.all_head_instruments.description": "...and all mob heads!",
+
+  "advancements.dwdsb.tune_note_block.title": "Composer In Practice",
+  "advancements.dwdsb.tune_note_block.description": "Manually tune a Note Block",
+
+  "": "Advancements under sherd_stuff",
+  "advancements.dwdsb.all_sherds.title": "Good Taste",
+  "advancements.dwdsb.all_sherds.description": "Unearth ALL pottery sherds!",
+
+  "advancements.dwdsb.dwdsb_sherds.title": "Graphic Scores",
+  "advancements.dwdsb.dwdsb_sherds.description": "Find all three musically inspired sherds",
+
+  "advancements.dwdsb.first_sherd.title": "Music to My Eyes",
+  "advancements.dwdsb.first_sherd.description": "Unearth a sherd from a suspicious block",
+
+  "": "Advancements under vanilla_album",
+  "advancements.dwdsb.first_vanilla_disc.title": "Beginning",
+  "advancements.dwdsb.first_vanilla_disc.description": "Trick a skeleton to kill a creeper",
+
+  "advancements.dwdsb.obtain_5.title": "Ancestry",
+  "advancements.dwdsb.obtain_5.description": "Combine nine Disc Fragments scavenged from Ancient Cities",
+
+  "advancements.dwdsb.obtain_otherside.title": "Left to Bloom",
+  "advancements.dwdsb.obtain_otherside.description": "Find otherside from a variety of scary places",
+
+  "advancements.dwdsb.obtain_pigstep.title": "So Below",
+  "advancements.dwdsb.obtain_pigstep.description": "Steal Pigstep under the watch of angry Piglins",
+
+  "advancements.dwdsb.obtain_relic.title": "A Familiar Room",
+  "advancements.dwdsb.obtain_relic.description": "Unearth Relic from a Trail Ruins dig site",
+
+  "advancements.dwdsb.obtain_trail_chamber_discs.title": "Puzzlebox",
+  "advancements.dwdsb.obtain_trail_chamber_discs.description": "Traverse tricky Trial Chambers, gathering all three music discs within",
+
+  "advancements.dwdsb.obtain_vanilla_discs.title": "Minecraft",
+  "advancements.dwdsb.obtain_vanilla_discs.description": "Obtain every vanilla music disc",
+
+  "": "Subtitles",
+  "subtitle.dwdsb.ancient_jingle.description": "Ancient Whistle whistles",
+  "subtitle.dwdsb.amethyst_jingle.description": "Amethyst Whistle rings",
+  "subtitle.dwdsb.gold_jingle.description": "Gold Whistle bellows",
+  "subtitle.dwdsb.diamond_jingle.description": "Diamond Whistle grumbles",
+  "subtitle.dwdsb.emerald_jingle.description": "Emerald Whistle sings"
+}

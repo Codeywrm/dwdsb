@@ -1,0 +1,33 @@
+{
+  "parent": "dwdsb:vanilla_album/first_vanilla_disc",
+  "criteria": {
+    "otherside": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:music_disc_otherside"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.dwdsb.obtain_otherside.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:music_disc_otherside"
+    },
+    "title": {
+      "translate": "advancements.dwdsb.obtain_otherside.title"
+    }
+  },
+  "requirements": [
+    [
+      "otherside"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

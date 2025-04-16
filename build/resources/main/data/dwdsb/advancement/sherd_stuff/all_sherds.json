@@ -1,0 +1,363 @@
+{
+  "parent": "dwdsb:sherd_stuff/dwdsb_sherds",
+  "criteria": {
+    "Angler Pottery Sherd": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:angler_pottery_sherd"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "Archer Pottery Sherd": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:archer_pottery_sherd"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "Arms Up Pottery Sherd": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:arms_up_pottery_sherd"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "Blade Pottery Sherd": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:blade_pottery_sherd"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "Brewer Pottery Sherd": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:brewer_pottery_sherd"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "Burn Pottery Sherd": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:burn_pottery_sherd"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "Danger Pottery Sherd": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:danger_pottery_sherd"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "Explorer Pottery Sherd": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:explorer_pottery_sherd"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "Flow Pottery Sherd": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:flow_pottery_sherd"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "Friend Pottery Sherd": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:friend_pottery_sherd"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "Guster Pottery Sherd": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:guster_pottery_sherd"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "Heart Pottery Sherd": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:heart_pottery_sherd"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "Heartbreak Pottery Sherd": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:heartbreak_pottery_sherd"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "Howl Pottery Sherd": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:howl_pottery_sherd"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "Melody Pottery Sherd": {
+      "conditions": {
+        "items": [
+          {
+            "items": "dwdsb:melody_pottery_sherd"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "Miner Pottery Sherd": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:miner_pottery_sherd"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "Mourner Pottery Sherd": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:mourner_pottery_sherd"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "Plenty Pottery Sherd": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:plenty_pottery_sherd"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "Prize Pottery Sherd": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:prize_pottery_sherd"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "Record Pottery Sherd": {
+      "conditions": {
+        "items": [
+          {
+            "items": "dwdsb:record_pottery_sherd"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "Scrape Pottery Sherd": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:scrape_pottery_sherd"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "Sheaf Pottery Sherd": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:sheaf_pottery_sherd"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "Shelter Pottery Sherd": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:shelter_pottery_sherd"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "Skull Pottery Sherd": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:skull_pottery_sherd"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "Snort Pottery Sherd": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:snort_pottery_sherd"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "Solo Pottery Sherd": {
+      "conditions": {
+        "items": [
+          {
+            "items": "dwdsb:solo_pottery_sherd"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.dwdsb.all_sherds.description"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "icon": {
+      "count": 1,
+      "id": "minecraft:heart_pottery_sherd"
+    },
+    "title": {
+      "translate": "advancements.dwdsb.all_sherds.title"
+    }
+  },
+  "requirements": [
+    [
+      "Angler Pottery Sherd"
+    ],
+    [
+      "Archer Pottery Sherd"
+    ],
+    [
+      "Arms Up Pottery Sherd"
+    ],
+    [
+      "Blade Pottery Sherd"
+    ],
+    [
+      "Brewer Pottery Sherd"
+    ],
+    [
+      "Burn Pottery Sherd"
+    ],
+    [
+      "Danger Pottery Sherd"
+    ],
+    [
+      "Explorer Pottery Sherd"
+    ],
+    [
+      "Flow Pottery Sherd"
+    ],
+    [
+      "Friend Pottery Sherd"
+    ],
+    [
+      "Guster Pottery Sherd"
+    ],
+    [
+      "Heart Pottery Sherd"
+    ],
+    [
+      "Heartbreak Pottery Sherd"
+    ],
+    [
+      "Howl Pottery Sherd"
+    ],
+    [
+      "Miner Pottery Sherd"
+    ],
+    [
+      "Mourner Pottery Sherd"
+    ],
+    [
+      "Plenty Pottery Sherd"
+    ],
+    [
+      "Prize Pottery Sherd"
+    ],
+    [
+      "Scrape Pottery Sherd"
+    ],
+    [
+      "Sheaf Pottery Sherd"
+    ],
+    [
+      "Shelter Pottery Sherd"
+    ],
+    [
+      "Skull Pottery Sherd"
+    ],
+    [
+      "Snort Pottery Sherd"
+    ],
+    [
+      "Melody Pottery Sherd"
+    ],
+    [
+      "Record Pottery Sherd"
+    ],
+    [
+      "Solo Pottery Sherd"
+    ]
+  ],
+  "rewards": {
+    "experience": 100
+  },
+  "sends_telemetry_event": true
+}

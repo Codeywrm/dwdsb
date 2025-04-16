@@ -1,0 +1,8 @@
+{
+  "comparator_output": 14,
+  "description": {
+    "translate": "item.dwdsb.sunset.desc"
+  },
+  "length_in_seconds": 336,
+  "sound_event": "dwdsb:sunset"
+}

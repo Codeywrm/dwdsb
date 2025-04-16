@@ -1,0 +1,33 @@
+{
+  "parent": "dwdsb:vanilla_album/obtain_otherside",
+  "criteria": {
+    "Relic": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:music_disc_relic"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.dwdsb.obtain_relic.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:music_disc_relic"
+    },
+    "title": {
+      "translate": "advancements.dwdsb.obtain_relic.title"
+    }
+  },
+  "requirements": [
+    [
+      "Relic"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

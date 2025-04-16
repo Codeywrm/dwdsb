@@ -1,0 +1,59 @@
+{
+  "parent": "dwdsb:vanilla_album/obtain_relic",
+  "criteria": {
+    "Creator": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:music_disc_creator"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "Creator (Music Box)": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:music_disc_creator_music_box"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "Precipice": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:music_disc_precipice"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.dwdsb.obtain_trail_chamber_discs.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:music_disc_precipice"
+    },
+    "title": {
+      "translate": "advancements.dwdsb.obtain_trail_chamber_discs.title"
+    }
+  },
+  "requirements": [
+    [
+      "Creator (Music Box)"
+    ],
+    [
+      "Creator"
+    ],
+    [
+      "Precipice"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

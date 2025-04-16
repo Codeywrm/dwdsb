@@ -1,0 +1,36 @@
+{
+  "wave": {"sounds":    ["dwdsb:wave"]},
+  "lost": {"sounds":    ["dwdsb:lost"]},
+  "watched": {"sounds": ["dwdsb:watched"]},
+  "rest": {"sounds":    ["dwdsb:rest"]},
+  "mirror": {"sounds":  ["dwdsb:mirror"]},
+  "rain": {"sounds":    ["dwdsb:rain"]},
+  "alone": {"sounds":   ["dwdsb:alone"]},
+  "bean": {"sounds":    ["dwdsb:bean"]},
+  "lyre": {"sounds":    ["dwdsb:lyre"]},
+  "ember": {"sounds":   ["dwdsb:ember"]},
+  "star": {"sounds":    ["dwdsb:star"]},
+  "rave": {"sounds":    ["dwdsb:rave"]},
+  "waltz": {"sounds":   ["dwdsb:waltz"]},
+  "sunset": {"sounds":  ["dwdsb:sunset"]},
+  "ancient_jingle": {
+    "subtitle": "subtitle.dwdsb.ancient_jingle.description",
+    "sounds": ["dwdsb:ancient_jingle"]
+  },
+  "amethyst_jingle": {
+    "subtitle": "subtitle.dwdsb.amethyst_jingle.description",
+    "sounds": ["dwdsb:amethyst_jingle"]
+  },
+  "gold_jingle": {
+    "subtitle": "subtitle.dwdsb.gold_jingle.description",
+    "sounds": ["dwdsb:gold_jingle"]
+  },
+  "diamond_jingle":  {
+    "subtitle": "subtitle.dwdsb.diamond_jingle.description",
+    "sounds": ["dwdsb:diamond_jingle"]
+  },
+  "emerald_jingle":  {
+    "subtitle": "subtitle.dwdsb.emerald_jingle.description",
+    "sounds": ["dwdsb:emerald_jingle"]
+  }
+}

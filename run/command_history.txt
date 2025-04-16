@@ -1,0 +1,50 @@
+/tp @s 1392 ~ -2176
+/gamemode spectator
+/gamemode creative
+/locate structure minecraft:desert_pyramid
+/tp @s 5888 ~ 368
+/advancement grant Player658
+/advancement grant Player658 everything
+/advancement grant Player463 everything
+/advancement grant Player341 everything
+/advancement grant Player38 everything
+/advancement grant Player109 everything
+/advancement grant Player540 everything
+/advancement grant Player704 everything
+/advancement grant Player408 everything
+/advancement grant Player22 everything
+/advancement grant Player864 everything
+/playsound dwdsb:amethyst_jingle
+/playsound dwdsb:ancient_jingle
+/playsound dwdsb:gold_jingle
+/playsound dwdsb:diamond_jingle
+/playsound dwdsb:emerald_jingle
+/advancement grant Player928 everything
+/advancement grant Player431 everything
+/advancement grant Player872 until dwdsb:dwdsb_album/obtain_dwdsb_discs
+/advancement grant Player972 everything
+/advancement grant Player451 everything
+/advancement grant Player835 everything
+/give Player608 minecraft:diamond[minecraft:item_model="template:test"]
+/gamemode survival
+/playsound dwdsb:waltz player Player396
+/gamemode creative
+/time set 0
+/tp Player785 0 100 0
+/time set day
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamerule minecartMaxSpeed 1000
+/kill
+/gamerule minecartMaxSpeed 15
+/gamerule minecartMaxSpeed 10
+/gamerule minecartMaxSpeed8
+/gamerule minecartMaxSpeed 8
+/gamerule minecartMaxSpeed 15
+/time set 0
+/time set day
+/advancement grant Player161 everything
+/advancement grant Player202 everything
+/give Player202 minecraft:ender_dragon_spawn_egg

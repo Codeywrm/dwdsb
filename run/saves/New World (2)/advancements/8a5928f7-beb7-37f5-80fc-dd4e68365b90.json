@@ -1,0 +1,57 @@
+{
+  "dwdsb:recipes/tools/emerald_whistle_smithing": {
+    "criteria": {
+      "has_ancient_whistle": "2025-03-24 12:39:20 -0500"
+    },
+    "done": true
+  },
+  "dwdsb:recipes/tools/gold_whistle_smithing": {
+    "criteria": {
+      "has_ancient_whistle": "2025-03-24 12:39:20 -0500"
+    },
+    "done": true
+  },
+  "dwdsb:recipes/tools/amethyst_whistle_smithing": {
+    "criteria": {
+      "has_ancient_whistle": "2025-03-24 12:39:20 -0500"
+    },
+    "done": true
+  },
+  "dwdsb:recipes/tools/diamond_whistle_smithing": {
+    "criteria": {
+      "has_ancient_whistle": "2025-03-24 12:39:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-03-24 12:39:20 -0500"
+    },
+    "done": true
+  },
+  "dwdsb:root": {
+    "criteria": {
+      "Have a musical item": "2025-03-24 12:39:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2025-03-24 12:39:21 -0500"
+    },
+    "done": false
+  },
+  "dwdsb:instruments/forge_whistles": {
+    "criteria": {
+      "Amethyst Whistle": "2025-03-24 12:39:20 -0500"
+    },
+    "done": false
+  },
+  "dwdsb:instruments/find_whistle": {
+    "criteria": {
+      "Ancient Whistle": "2025-03-24 12:39:20 -0500"
+    },
+    "done": true
+  },
+  "DataVersion": 4189
+}

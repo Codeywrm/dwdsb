@@ -1,0 +1,124 @@
+{
+  "item.dwdsb.disc_core": "Core o' shanty",
+  "item.dwdsb.wave": "Shanty",
+  "item.dwdsb.wave.desc": "Sir Thomas Jakuus - wave",
+  "item.dwdsb.lost": "Shanty",
+  "item.dwdsb.lost.desc": "Sir Thomas Jakuus - lost",
+  "item.dwdsb.watched": "Shanty",
+  "item.dwdsb.watched.desc": "Sir Thomas Jakuus - watched",
+  "item.dwdsb.rest": "Shanty",
+  "item.dwdsb.rest.desc": "Sir Thomas Jakuus - rest",
+  "item.dwdsb.mirror": "Shanty",
+  "item.dwdsb.mirror.desc": "Sir Thomas Jakuus - mirror",
+  "item.dwdsb.rain": "Shanty",
+  "item.dwdsb.rain.desc": "Sir Thomas Jakuus - rain",
+  "item.dwdsb.alone": "Shanty",
+  "item.dwdsb.alone.desc": "Sir Thomas Jakuus - alone",
+  "item.dwdsb.bean": "Shanty",
+  "item.dwdsb.bean.desc": "Sir Thomas Jakuus - bean",
+  "item.dwdsb.lyre": "Shanty",
+  "item.dwdsb.lyre.desc": "Sir Thomas Jakuus - lyre",
+  "item.dwdsb.ember": "Shanty",
+  "item.dwdsb.ember.desc": "Sir Thomas Jakuus - ember",
+  "item.dwdsb.star": "Shanty",
+  "item.dwdsb.star.desc": "Sir Thomas Jakuus - star",
+  "item.dwdsb.rave": "Shanty",
+  "item.dwdsb.rave.desc": "Sir Thomas Jakuus - rave",
+  "item.dwdsb.waltz": "Shanty",
+  "item.dwdsb.waltz.desc": "Sir Thomas Jakuus - waltz",
+  "item.dwdsb.sunset": "Shanty",
+  "item.dwdsb.sunset.desc": "Sir Thomas Jakuus - sunset",
+  "item.dwdsb.ancient_whistle": "Ye ol' tootin' horn",
+  "item.dwdsb.amethyst_whistle": "Tootin' horn o' gem",
+  "item.dwdsb.gold_whistle": "Tootin' horn o' gold",
+  "item.dwdsb.diamond_whistle": "Tootin' horn o' diamond",
+  "item.dwdsb.emerald_whistle": "Tootin' horn o' emerald",
+  "item.dwdsb.melody_pottery_sherd": "Tune clay fragment",
+  "item.dwdsb.record_pottery_sherd": "Shanty clay fragment",
+  "item.dwdsb.solo_pottery_sherd": "Tootin' horn clay fragment",
+  "itemgroup.dwdsb.dwdsb_items": "Where shantys dar' not be",
+
+  "advancements.dwdsb.root.title": "Sea shantys for th' Seven Seas",
+  "advancements.dwdsb.root.description": "Enough t' keep ye's crew happy fer years",
+
+  "": "Advancements under dwdsb_album",
+  "advancements.dwdsb.first_core.title": "On th' crow's nest",
+  "advancements.dwdsb.first_core.description": "Score ye's first disc corrrre",
+
+  "advancements.dwdsb.obtain_dwdsb.title": "Lost in Davey Jones' Locker",
+  "advancements.dwdsb.obtain_dwdsb.description": "Sing all shantys from discs where discs shouldn't be",
+
+  "advancements.dwdsb.obtain_dwdsb_discs.title": "A 'ound for the house",
+  "advancements.dwdsb.obtain_dwdsb_discs.description": "Raise ye cups fer Sir Thomas Jakuus",
+
+  "advancements.dwdsb.obtain_going_deeper.title": "Sea 'n foam",
+  "advancements.dwdsb.obtain_going_deeper.description": "Sing all shantys from Going Deeper",
+
+  "advancements.dwdsb.obtain_journeys_end.title": "Boarding party",
+  "advancements.dwdsb.obtain_journeys_end.description": "Sing all shantys from Journey's End",
+
+  "advancements.dwdsb.obtain_lost_to_time.title": "Ancient booty",
+  "advancements.dwdsb.obtain_lost_to_time.description": "Sing all shantys from Lost to Time",
+
+  "": "Advancements under instruments",
+  "advancements.dwdsb.find_whistle.title": "Scurvy stick",
+  "advancements.dwdsb.find_whistle.description": "Find buried treasure among ol' ruins",
+
+  "advancements.dwdsb.forge_whistles.title": "Bejeweled treasure",
+  "advancements.dwdsb.forge_whistles.description": "Muster up all upgraded tootin' horns",
+
+  "advancements.dwdsb.play_all_goat_horns.title": "Landlubber's symphony",
+  "advancements.dwdsb.play_all_goat_horns.description": "Legend tells of a landlubber wit' more than two horns",
+
+  "advancements.dwdsb.play_goat_horn.title": "A landlubber's shanty",
+  "advancements.dwdsb.play_goat_horn.description": "Play a horn o' goat",
+
+  "": "Advancements under note_block_stuff",
+  "advancements.dwdsb.all_block_instruments.title": "First mate in music",
+  "advancements.dwdsb.all_block_instruments.description": "Take from the land to make thy's hornpipe sing",
+
+  "advancements.dwdsb.all_head_instruments.title": "Captain of music",
+  "advancements.dwdsb.all_head_instruments.description": "slaughter ye's enemies, constructing an organ that'll make even Davey Jones jealous",
+
+  "advancements.dwdsb.tune_note_block.title": "Composer In Practice",
+  "advancements.dwdsb.tune_note_block.description": "Use ye's hook to pitch a hornpipe",
+
+  "": "Advancements under sherd_stuff",
+  "advancements.dwdsb.all_sherds.title": "Ale drinker",
+  "advancements.dwdsb.all_sherds.description": "Plunder all clay fragments from the earth",
+
+  "advancements.dwdsb.dwdsb_sherds.title": "Music aboard",
+  "advancements.dwdsb.dwdsb_sherds.description": "Dig up th' three clay fragments o' music",
+
+  "advancements.dwdsb.first_sherd.title": "Only a landlubber would",
+  "advancements.dwdsb.first_sherd.description": "Find a clay fragment",
+
+  "": "Advancements under vanilla_album",
+  "advancements.dwdsb.first_vanilla_disc.title": "Drunken sailor",
+  "advancements.dwdsb.first_vanilla_disc.description": "What will we do with a drunken sailor...",
+
+  "advancements.dwdsb.obtain_5.title": "Blow th' man down",
+  "advancements.dwdsb.obtain_5.description": "Blow the man down, bullies, blow the man down...",
+
+  "advancements.dwdsb.obtain_otherside.title": "Shenandoah",
+  "advancements.dwdsb.obtain_otherside.description": "Oh shenandoah... i long to see you...",
+
+  "advancements.dwdsb.obtain_pigstep.title": "A pirate’s life for me",
+  "advancements.dwdsb.obtain_pigstep.description": "Yo ho, yo ho, a pirate’s life for me...",
+
+  "advancements.dwdsb.obtain_relic.title": "Homeward bound",
+  "advancements.dwdsb.obtain_relic.description": "Oh, fare you well...",
+
+  "advancements.dwdsb.obtain_trail_chamber_discs.title": "Sloop john b",
+  "advancements.dwdsb.obtain_trail_chamber_discs.description": "We come on the sloop John B., my grandfather and me...",
+
+  "advancements.dwdsb.obtain_vanilla_discs.title": "Spanish ladies",
+  "advancements.dwdsb.obtain_vanilla_discs.description": "Farewell and adieu, to you Spanish ladies...",
+
+  "** comment_6 **": "Subtitles",
+  "subtitle.dwdsb.ancient_jingle.description": "Ye ol' tootin' horn whistles",
+  "subtitle.dwdsb.amethyst_jingle.description": "Tootin' horn o' gem rings",
+  "subtitle.dwdsb.gold_jingle.description": "Tootin' horn o' hold bellows",
+  "subtitle.dwdsb.diamond_jingle.description": "Tootin' horn o' diamond grumbles",
+  "subtitle.dwdsb.emerald_jingle.description": "Tootin' horn o' emerald sings"
+}

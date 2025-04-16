@@ -1,0 +1,45 @@
+{
+  "dwdsb:dwdsb_album/obtain_dwdsb_discs": {
+    "criteria": {
+      "get_wave": "2025-03-11 10:08:34 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-03-11 10:08:25 -0500"
+    },
+    "done": true
+  },
+  "dwdsb:root": {
+    "criteria": {
+      "Have a musical item": "2025-03-11 10:08:34 -0500"
+    },
+    "done": true
+  },
+  "dwdsb:vanilla_album/obtain_vanilla_discs": {
+    "criteria": {
+      "get_creator_music_box": "2025-03-11 10:08:44 -0500"
+    },
+    "done": false
+  },
+  "dwdsb:dwdsb_album/obtain_dwdsb": {
+    "criteria": {
+      "wave": "2025-03-11 10:08:34 -0500"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:stony_shore": "2025-03-11 10:08:26 -0500"
+    },
+    "done": false
+  },
+  "dwdsb:vanilla_album/obtain_trial_chamber_discs": {
+    "criteria": {
+      "Creator (Music Box)": "2025-03-11 10:08:44 -0500"
+    },
+    "done": false
+  },
+  "DataVersion": 4189
+}

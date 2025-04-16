@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:diamond",
+  "base": "minecraft:copper_ingot",
+  "result": {
+    "count": 1,
+    "id": "dwdsb:diamond_whistle"
+  },
+  "template": "dwdsb:ancient_whistle"
+}

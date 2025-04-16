@@ -1,0 +1,8 @@
+{
+  "comparator_output": 2,
+  "description": {
+    "translate": "item.dwdsb.lost.desc"
+  },
+  "length_in_seconds": 162,
+  "sound_event": "dwdsb:lost"
+}

@@ -1,0 +1,8 @@
+{
+  "comparator_output": 12,
+  "description": {
+    "translate": "item.dwdsb.rave.desc"
+  },
+  "length_in_seconds": 197,
+  "sound_event": "dwdsb:rave"
+}

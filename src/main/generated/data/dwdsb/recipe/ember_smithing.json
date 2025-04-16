@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:netherite_ingot",
+  "base": "minecraft:netherite_scrap",
+  "result": {
+    "count": 1,
+    "id": "dwdsb:ember"
+  },
+  "template": "dwdsb:disc_core"
+}

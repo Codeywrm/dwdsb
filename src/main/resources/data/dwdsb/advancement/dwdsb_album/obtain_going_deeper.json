@@ -1,0 +1,59 @@
+{
+  "parent": "dwdsb:dwdsb_album/obtain_dwdsb",
+  "criteria": {
+    "alone": {
+      "conditions": {
+        "items": [
+          {
+            "items": "dwdsb:alone"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "mirror": {
+      "conditions": {
+        "items": [
+          {
+            "items": "dwdsb:mirror"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "rain": {
+      "conditions": {
+        "items": [
+          {
+            "items": "dwdsb:rain"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.dwdsb.obtain_going_deeper.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "dwdsb:mirror"
+    },
+    "title": {
+      "translate": "advancements.dwdsb.obtain_going_deeper.title"
+    }
+  },
+  "requirements": [
+    [
+      "mirror"
+    ],
+    [
+      "rain"
+    ],
+    [
+      "alone"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "net/codewyrm/dwdsb/mixin/DecoratedPotPatternsChanger": {
+      "fromSherd": "Lnet/minecraft/class_8173;method_49206(Lnet/minecraft/class_1792;)Lnet/minecraft/class_5321;",
+      "registerAndGetDefault": "Lnet/minecraft/class_8173;method_49207(Lnet/minecraft/class_2378;)Lnet/minecraft/class_9766;"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "net/codewyrm/dwdsb/mixin/DecoratedPotPatternsChanger": {
+        "fromSherd": "Lnet/minecraft/class_8173;method_49206(Lnet/minecraft/class_1792;)Lnet/minecraft/class_5321;",
+        "registerAndGetDefault": "Lnet/minecraft/class_8173;method_49207(Lnet/minecraft/class_2378;)Lnet/minecraft/class_9766;"
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "comparator_output": 10,
+  "description": {
+    "translate": "item.dwdsb.ember.desc"
+  },
+  "length_in_seconds": 187,
+  "sound_event": "dwdsb:ember"
+}

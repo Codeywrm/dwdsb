@@ -1,0 +1,124 @@
+{
+  "item.dwdsb.disc_core": "idk lma0",
+  "item.dwdsb.wave": "Loud round thing",
+  "item.dwdsb.wave.desc": "Sir Thomas Jakuus - wave",
+  "item.dwdsb.lost": "Loud round thing",
+  "item.dwdsb.lost.desc": "Sir Thomas Jakuus - lost",
+  "item.dwdsb.watched": "Loud round thing",
+  "item.dwdsb.watched.desc": "Sir Thomas Jakuus - watched",
+  "item.dwdsb.rest": "Loud round thing",
+  "item.dwdsb.rest.desc": "Sir Thomas Jakuus - rest",
+  "item.dwdsb.mirror": "Loud round thing",
+  "item.dwdsb.mirror.desc": "Sir Thomas Jakuus - mirror",
+  "item.dwdsb.rain": "Loud round thing",
+  "item.dwdsb.rain.desc": "Sir Thomas Jakuus - rain",
+  "item.dwdsb.alone": "Loud round thing",
+  "item.dwdsb.alone.desc": "Sir Thomas Jakuus - alone",
+  "item.dwdsb.bean": "Loud round thing",
+  "item.dwdsb.bean.desc": "Sir Thomas Jakuus - bean",
+  "item.dwdsb.lyre": "Loud round thing",
+  "item.dwdsb.lyre.desc": "Sir Thomas Jakuus - lyre",
+  "item.dwdsb.ember": "Loud round thing",
+  "item.dwdsb.ember.desc": "Sir Thomas Jakuus - ember",
+  "item.dwdsb.star": "Loud round thing",
+  "item.dwdsb.star.desc": "Sir Thomas Jakuus - star",
+  "item.dwdsb.rave": "Loud round thing",
+  "item.dwdsb.rave.desc": "Sir Thomas Jakuus - rave",
+  "item.dwdsb.waltz": "Loud round thing",
+  "item.dwdsb.waltz.desc": "Sir Thomas Jakuus - waltz",
+  "item.dwdsb.sunset": "Loud round thing",
+  "item.dwdsb.sunset.desc": "Sir Thomas Jakuus - sunset",
+  "item.dwdsb.ancient_whistle": "SuPa 0ld wimbdy thingy",
+  "item.dwdsb.amethyst_whistle": "Purpur shinee wimbdy thing",
+  "item.dwdsb.gold_whistle": "GULDUN wimbdy thing",
+  "item.dwdsb.diamond_whistle": "SHINNEE!!! wimbdy thing",
+  "item.dwdsb.emerald_whistle": "shinneh green wimbdy thing",
+  "item.dwdsb.melody_pottery_sherd": "RAAAAAWww ancient containr thingy",
+  "item.dwdsb.record_pottery_sherd": "Woooah logo!!11 ancient containr thingy",
+  "item.dwdsb.solo_pottery_sherd": "To0TtY ancient containr thingy",
+  "itemgroup.dwdsb.dwdsb_items": "Loud thingys bee'n w33lly Bad!!!",
+
+  "advancements.dwdsb.root.title": "WOoooooow Muzic",
+  "advancements.dwdsb.root.description": "Liek sawrting MUSIZ???",
+
+  "": "Advancements under dwdsb_album",
+  "advancements.dwdsb.first_core.title": "START HERE LOL :3",
+  "advancements.dwdsb.first_core.description": "Get y0er fiwst idk lma0",
+
+  "advancements.dwdsb.obtain_dwdsb.title": "Its dawrk in heeero :(",
+  "advancements.dwdsb.obtain_dwdsb.description": "Find ALLLL the loud round things fwam da main awbulum!",
+
+  "advancements.dwdsb.obtain_dwdsb_discs.title": "Dis muzic is da BEST!!!!",
+  "advancements.dwdsb.obtain_dwdsb_discs.description": "TaNk ouuu JakUus!!",
+
+  "advancements.dwdsb.obtain_going_deeper.title": "ROCK AND STONE (to da bone) brothA!!",
+  "advancements.dwdsb.obtain_going_deeper.description": "Be like coolz dwarfz and find de loud round thingies",
+
+  "advancements.dwdsb.obtain_journeys_end.title": "I wove parties <3",
+  "advancements.dwdsb.obtain_journeys_end.description": "Get da loud round things from da viwagees!",
+
+  "advancements.dwdsb.obtain_lost_to_time.title": "*LOUDZ whistzzz lsounnds",
+  "advancements.dwdsb.obtain_lost_to_time.description": "Get all da loud round thingies from da OLDE times...",
+
+  "": "Advancements under instruments",
+  "advancements.dwdsb.find_whistle.title": "Dis tastez funny",
+  "advancements.dwdsb.find_whistle.description": "Find da SuPa 0ld wimbdy thingy",
+
+  "advancements.dwdsb.forge_whistles.title": "Errr-wik. Get it? LOL",
+  "advancements.dwdsb.forge_whistles.description": "Make all da wimby thingiz",
+
+  "advancements.dwdsb.play_all_goat_horns.title": "ITS A DWEEM REFreenz",
+  "advancements.dwdsb.play_all_goat_horns.description": "Get all da monten shep's sharp thingies",
+
+  "advancements.dwdsb.play_goat_horn.title": "LEIK gramps uszed to dooz",
+  "advancements.dwdsb.play_goat_horn.description": "Toot a monten shep's sharp thingy (toot toot)",
+
+  "": "Advancements under note_block_stuff",
+  "advancements.dwdsb.all_block_instruments.title": "Kinda smartz",
+  "advancements.dwdsb.all_block_instruments.description": "Ding d0ng bloop",
+
+  "advancements.dwdsb.all_head_instruments.title": "V3wy Smawrt!!!",
+  "advancements.dwdsb.all_head_instruments.description": "Chopy chopy!",
+
+  "advancements.dwdsb.tune_note_block.title": "Not smartzzz",
+  "advancements.dwdsb.tune_note_block.description": "Ding, butz ding in F-shwarp",
+
+  "": "Advancements under sherd_stuff",
+  "advancements.dwdsb.all_sherds.title": "Yummy yummy",
+  "advancements.dwdsb.all_sherds.description": "Get all da ancient containr thingies",
+
+  "advancements.dwdsb.dwdsb_sherds.title": "Like vidweo gamez",
+  "advancements.dwdsb.dwdsb_sherds.description": "Find all da 3 muszics ancient containr thingies",
+
+  "advancements.dwdsb.first_sherd.title": "SUS? ITS SUS LIKE AMO-",
+  "advancements.dwdsb.first_sherd.description": "De de de de de... dedede",
+
+  "": "Advancements under vanilla_album",
+  "advancements.dwdsb.first_vanilla_disc.title": "In da Begwiuning",
+  "advancements.dwdsb.first_vanilla_disc.description": "360 no SCOPE twiksh0t",
+
+  "advancements.dwdsb.obtain_5.title": "Ancewesty",
+  "advancements.dwdsb.obtain_5.description": "OOOooooO spooopy dwicsc",
+
+  "advancements.dwdsb.obtain_otherside.title": "Lweft to Bloom",
+  "advancements.dwdsb.obtain_otherside.description": "Find da othswide",
+
+  "advancements.dwdsb.obtain_pigstep.title": "So Bewoooo",
+  "advancements.dwdsb.obtain_pigstep.description": "Take da disc from da piglongs",
+
+  "advancements.dwdsb.obtain_relic.title": "A Famiwar Wooooom",
+  "advancements.dwdsb.obtain_relic.description": "Rewic da werclic",
+
+  "advancements.dwdsb.obtain_trail_chamber_discs.title": "Puzzwel Boxe",
+  "advancements.dwdsb.obtain_trail_chamber_discs.description": "Get da coppwa diwcsc",
+
+  "advancements.dwdsb.obtain_vanilla_discs.title": "This is the last one in the list",
+  "advancements.dwdsb.obtain_vanilla_discs.description": "I do not know I ran out of ideas. I am a 23 year old dude",
+
+  "": "Subtitles",
+  "subtitle.dwdsb.ancient_jingle.description": "SuPa 0ld wimbdy thingy whistlez",
+  "subtitle.dwdsb.amethyst_jingle.description": "Purpur shinee wimbdy thing wingz",
+  "subtitle.dwdsb.gold_jingle.description": "GULDUN wimbdy thing bewwlos",
+  "subtitle.dwdsb.diamond_jingle.description": "SHINNEE!!! wimbdy thing wrumblez",
+  "subtitle.dwdsb.emerald_jingle.description": "shinneh green wimbdy thing singz"
+}

@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "id": "dwdsb:ancient_whistle",
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "title": {
+      "translate": "advancements.dwdsb.find_whistle.title"
+    },
+    "description": {
+      "translate": "advancements.dwdsb.find_whistle.description"
+    }
+  },
+  "parent": "dwdsb:note_block_stuff/tune_note_block",
+  "criteria": {
+    "Ancient Whistle": {
+      "conditions": {
+        "items": [
+          {
+            "items": "dwdsb:ancient_whistle"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  }
+}

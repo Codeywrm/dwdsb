@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:goat_horn",
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "title": {
+      "translate": "advancements.dwdsb.play_goat_horn.title"
+    },
+    "description": {
+      "translate": "advancements.dwdsb.play_goat_horn.description"
+  }
+},
+  "parent": "dwdsb:note_block_stuff/tune_note_block",
+  "criteria": {
+    "Play a Goat Horn": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "items": "minecraft:goat_horn"
+        }
+      }
+    }
+  }
+}

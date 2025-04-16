@@ -1,0 +1,8 @@
+{
+  "comparator_output": 3,
+  "description": {
+    "translate": "item.dwdsb.watched.desc"
+  },
+  "length_in_seconds": 188,
+  "sound_event": "dwdsb:watched"
+}

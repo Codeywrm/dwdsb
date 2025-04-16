@@ -1,0 +1,33 @@
+{
+  "parent": "dwdsb:root",
+  "criteria": {
+    "Find any sherd": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#minecraft:decorated_pot_sherds"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.dwdsb.first_sherd.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:snort_pottery_sherd"
+    },
+    "title": {
+      "translate": "advancements.dwdsb.first_sherd.title"
+    }
+  },
+  "requirements": [
+    [
+      "Find any sherd"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

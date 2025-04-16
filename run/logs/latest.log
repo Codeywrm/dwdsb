@@ -1,0 +1,437 @@
+[13:52:22] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.21.5 with Fabric Loader 0.16.10
+[13:52:22] [main/INFO] (FabricLoader) Loading 55 mods:
+	- dwdsb 1.6.5
+	- fabric-api 0.119.5+1.21.5
+	- fabric-api-base 0.4.62+73a52b4b07
+	- fabric-api-lookup-api-v1 1.6.95+86c3a9f107
+	- fabric-biome-api-v1 16.0.7+2dd063df07
+	- fabric-block-api-v1 1.0.37+86c3a9f107
+	- fabric-block-view-api-v2 1.0.26+aa6d566c07
+	- fabric-blockrenderlayer-v1 2.0.16+86c3a9f107
+	- fabric-client-gametest-api-v1 4.1.10+f3ffa98907
+	- fabric-client-tags-api-v1 1.1.37+86c3a9f107
+	- fabric-command-api-v1 1.2.70+f71b366f07
+	- fabric-command-api-v2 2.2.49+73a52b4b07
+	- fabric-commands-v0 0.2.87+df3654b307
+	- fabric-content-registries-v0 10.0.11+216530c807
+	- fabric-convention-tags-v1 2.1.27+7f945d5b07
+	- fabric-convention-tags-v2 2.14.1+277f99c707
+	- fabric-crash-report-info-v1 0.3.12+86c3a9f107
+	- fabric-data-attachment-api-v1 1.6.6+7b20cbb007
+	- fabric-data-generation-api-v1 22.3.1+d94614b807
+	- fabric-dimensions-v1 4.0.16+86c3a9f107
+	- fabric-entity-events-v1 2.0.25+27c1078f07
+	- fabric-events-interaction-v0 4.0.13+73a52b4b07
+	- fabric-game-rule-api-v1 1.0.70+c327076a07
+	- fabric-gametest-api-v1 3.1.1+7b20cbb007
+	- fabric-item-api-v1 11.3.1+eeb42f0207
+	- fabric-item-group-api-v1 4.2.8+3459fc6107
+	- fabric-key-binding-api-v1 1.0.63+ecf51cdc07
+	- fabric-keybindings-v0 0.2.61+df3654b307
+	- fabric-lifecycle-events-v1 2.5.13+5cbce67307
+	- fabric-loot-api-v2 3.0.47+3f89f5a507
+	- fabric-loot-api-v3 1.0.35+86c3a9f107
+	- fabric-message-api-v1 6.0.33+86c3a9f107
+	- fabric-model-loading-api-v1 5.0.2+55bce67a07
+	- fabric-networking-api-v1 4.4.0+f3ffa98907
+	- fabric-object-builder-api-v1 21.0.0+7b20cbb007
+	- fabric-particles-v1 4.0.22+86c3a9f107
+	- fabric-recipe-api-v1 8.1.6+052a85d007
+	- fabric-registry-sync-v0 6.1.20+b556383207
+	- fabric-renderer-api-v1 6.0.0+55bce67a07
+	- fabric-renderer-indigo 3.0.0+55bce67a07
+	- fabric-rendering-data-attachment-v1 0.3.64+73761d2e07
+	- fabric-rendering-fluids-v1 3.1.27+86c3a9f107
+	- fabric-rendering-v1 11.1.11+081cc04307
+	- fabric-resource-conditions-api-v1 5.0.21+73a52b4b07
+	- fabric-resource-loader-v0 3.1.6+02ca679607
+	- fabric-screen-api-v1 2.0.46+86c3a9f107
+	- fabric-screen-handler-api-v1 1.3.127+c327076a07
+	- fabric-sound-api-v1 1.0.38+86c3a9f107
+	- fabric-tag-api-v1 1.0.16+ecf51cdc07
+	- fabric-transfer-api-v1 5.4.23+7b20cbb007
+	- fabric-transitive-access-wideners-v1 6.3.17+f17a180c07
+	- fabricloader 0.16.10
+	- java 21
+	- minecraft 1.21.5
+	- mixinextras 0.4.1
+[13:52:22] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/Anthony/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/6a12aacc794f1078458433116e9ed42c1cc98096/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=CLIENT
+[13:52:22] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
+[13:52:22] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_21
+[13:52:23] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[13:52:24] [Datafixer Bootstrap/INFO] (Minecraft) 263 Datafixer optimizations took 769 milliseconds
+[13:52:28] [Render thread/INFO] (Minecraft) Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:52:28] [Render thread/INFO] (Minecraft) Setting user: Player202
+[13:52:28] [Render thread/INFO] (DWDSB) [1/5] Registered items successfully!
+[13:52:28] [Render thread/INFO] (DWDSB) [2/5] Registered sounds successfully!
+[13:52:28] [Render thread/INFO] (DWDSB) [3/5] Loot tables modified successfully!
+[13:52:28] [Render thread/INFO] (DWDSB) [4/5] Trades modified successfully!
+[13:52:28] [Render thread/INFO] (DWDSB) [5/5] Registered Item Group successfully!
+[13:52:28] [Render thread/INFO] (DWDSB) All content loaded. Ready for some killer beats?
+[13:52:28] [Render thread/INFO] (Indigo) [Indigo] Registering Indigo renderer!
+[13:52:29] [Render thread/INFO] (Minecraft) Backend library: LWJGL version 3.3.3-snapshot
+[13:52:29] [Render thread/INFO] (Minecraft) Using optional rendering extensions: GL_KHR_debug, GL_ARB_vertex_attrib_binding, GL_ARB_direct_state_access
+[13:52:29] [Render thread/INFO] (Minecraft) Reloading ResourceManager: vanilla, fabric, dwdsb, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-gametest-api-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-convention-tags-v2, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-game-rule-api-v1, fabric-gametest-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-loot-api-v3, fabric-message-api-v1, fabric-model-loading-api-v1, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-tag-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader
+[13:52:29] [Worker-Main-12/INFO] (Minecraft) Found unifont_jp_patch-16.0.01.hex, loading
+[13:52:29] [Worker-Main-11/INFO] (Minecraft) Found unifont_all_no_pua-16.0.01.hex, loading
+[13:52:29] [Download-1/INFO] (Minecraft) Could not authorize you against Realms server: Invalid session id
+[13:52:29] [Download-1/ERROR] (Minecraft) Failed to fetch Realms feature flags
+net.minecraft.client.realms.exception.RealmsServiceException: Realms authentication error with message 'Invalid session id'
+	at knot/net.minecraft.client.realms.RealmsClient.execute(RealmsClient.java:495) ~[minecraft-merged-5e5bca9d97-1.21.5-net.fabricmc.yarn.1_21_5.1.21.5+build.1-v2.jar:?]
+	at knot/net.minecraft.client.realms.RealmsClient.fetchFeatureFlags(RealmsClient.java:177) ~[minecraft-merged-5e5bca9d97-1.21.5-net.fabricmc.yarn.1_21_5.1.21.5+build.1-v2.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[13:52:30] [Render thread/WARN] (Minecraft) minecraft:pipeline/entity_translucent_emissive shader program does not use sampler Sampler2 defined in the pipeline. This might be a bug.
+[13:52:30] [Render thread/INFO] (Minecraft) OpenAL initialized on device OpenAL Soft on Speakers (Razer BlackShark V2 Pro)
+[13:52:30] [Render thread/INFO] (Minecraft) Sound engine started
+[13:52:30] [Render thread/INFO] (Minecraft) Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[13:52:30] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[13:52:30] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[13:52:30] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[13:52:30] [Render thread/INFO] (Minecraft) Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[13:52:30] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[13:52:30] [Render thread/INFO] (Minecraft) Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[13:52:30] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[13:52:30] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[13:52:30] [Render thread/INFO] (Minecraft) Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[13:52:30] [Render thread/INFO] (Minecraft) Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[13:52:30] [Render thread/INFO] (Minecraft) Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[13:52:30] [Render thread/INFO] (Minecraft) Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[13:52:30] [Render thread/INFO] (Minecraft) Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[13:52:39] [Render thread/INFO] (Minecraft) Loaded 1382 recipes
+[13:52:39] [Render thread/INFO] (Minecraft) Loaded 1517 advancements
+[13:52:39] [Render thread/INFO] (BiomeModificationImpl) Applied 0 biome modifications to 0 of 65 new biomes in 736.0 μs
+[13:52:39] [Server thread/INFO] (Minecraft) Starting integrated minecraft server version 1.21.5
+[13:52:39] [Server thread/INFO] (Minecraft) Generating keypair
+[13:52:39] [Server thread/INFO] (Minecraft) Preparing start region for dimension minecraft:overworld
+[13:52:39] [Render thread/INFO] (Minecraft) Preepayrin spawn ayyrea: 0%
+[13:52:39] [Render thread/INFO] (Minecraft) Time elapsed: 156 ms
+[13:52:39] [Server thread/WARN] (TranslationConventionLogWarnings) 
+	Dev warning - Untranslated Item Tags detected. Please translate your item tags so other mods such as recipe viewers can properly display your tag's name.
+	The format desired is tag.item.<namespace>.<path> for the translation key with slashes in path turned into periods.
+	To disable this message, set this system property in your runs: `-Dfabric-tag-conventions-v2.missingTagTranslationWarning=SILENCED`.
+	To see individual untranslated item tags found, set the system property to `-Dfabric-tag-conventions-v2.missingTagTranslationWarning=VERBOSE`.
+	Default is `SHORT`.
+
+[13:52:39] [Server thread/INFO] (Minecraft) Changing view distance to 12, from 10
+[13:52:39] [Server thread/INFO] (Minecraft) Changing simulation distance to 12, from 0
+[13:52:40] [Server thread/INFO] (Minecraft) Player202[local:E:a4c81d05] logged in with entity id 41 at (-37.38047473527004, -52.796608248553405, -152.84935243899707)
+[13:52:40] [Server thread/INFO] (Minecraft) Player202 joind teh game
+[13:52:40] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [START HERE LOL :3]
+[13:52:40] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Dis tastez funny]
+[13:52:40] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [START HERE LOL :3]
+[13:52:40] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Dis tastez funny]
+[13:52:40] [Render thread/INFO] (Minecraft) Loaded 27 advancements
+[13:52:58] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[13:52:58] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[13:52:58] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[13:52:58] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[13:52:59] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[13:52:59] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[13:52:59] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[13:52:59] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [The sadest blog evah :(]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [therz a kat in mi <:D]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 didz [2gether we meoww!] clap clap meeee
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Shinyyyy]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [cawntry lowd, taek me hooome to da plazz i belllonggggg :)]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Bettr armr bettr woof]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Suit up k?]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 didz [I smiss ur wae] clap clap meeee
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [beri beri frijthing!]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [LEIK gramps uszed to dooz]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Hot Stuffz]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Da new mc dungenz updet⁈ :o]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Watevr floatz ur gaot!]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Free teh End]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [BOOM protecc]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 didz [Strange tastin' milk] clap clap meeee
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [I wove parties <3]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [BEZT CATZ EVAARR]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Pretteh Containr]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Low n' bee-hooold!]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [The sadest blog evah :(]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Bring hoem da bacon]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [therz a kat in mi <:D]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 didz [2gether we meoww!] clap clap meeee
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Shinyyyy]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Cat says, "Nawt today!"]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [cawntry lowd, taek me hooome to da plazz i belllonggggg :)]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [SUS? ITS SUS LIKE AMO-]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 didz [Dis muzic is da BEST!!!!] clap clap meeee
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Toad geng]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Bettr armr bettr woof]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Suit up k?]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Oh isnt it iron pik]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 didz [I smiss ur wae] clap clap meeee
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [beri beri frijthing!]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [LEIK gramps uszed to dooz]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 didz [dawg u serious?] clap clap meeee
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Hot Stuffz]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Ancewesty]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Da new mc dungenz updet⁈ :o]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [You're a lizard, Hairy]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 dids [Da next generashion] omg gg bro
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Watevr floatz ur gaot!]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 didz [Teh Weird Thing Spredz] clap clap meeee
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [fishy bashiness]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Free teh End]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [BOOM protecc]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 didz [Strange tastin' milk] clap clap meeee
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 didz [Veri hot vacashun] clap clap meeee
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [I wove parties <3]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 didz [ITS A DWEEM REFreenz] clap clap meeee
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [BEZT CATZ EVAARR]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Pretteh Containr]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Low n' bee-hooold!]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Bring hoem da bacon]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Cavez n' Clifz]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Cat says, "Nawt today!"]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [ROCK AND STONE (to da bone) brothA!!]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [SUS? ITS SUS LIKE AMO-]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 didz [Scarlet Overkill] clap clap meeee
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 didz [Dis muzic is da BEST!!!!] clap clap meeee
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Cut dat off]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Dis bout haz legz!]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Toad geng]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 didz [mLgY0l0 dewwel!!!] clap clap meeee
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Oh isnt it iron pik]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 didz [dawg u serious?] clap clap meeee
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Ancewesty]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 didz [Supr dupr view up heer] clap clap meeee
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [You're a lizard, Hairy]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 dids [Da next generashion] omg gg bro
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 didz [Teh Weird Thing Spredz] clap clap meeee
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [fishy bashiness]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 didz [Veri hot vacashun] clap clap meeee
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 didz [Yummy yummy] clap clap meeee
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 didz [ITS A DWEEM REFreenz] clap clap meeee
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Cavez n' Clifz]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 didz [Haw did we get 'ere¿] clap clap meeee
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [ROCK AND STONE (to da bone) brothA!!]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 didz [360 no scope] clap clap meeee
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 didz [Scarlet Overkill] clap clap meeee
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [A Famiwar Wooooom]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Cut dat off]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Spoopy Scury Skele-ton]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Dis bout haz legz!]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 didz [mLgY0l0 dewwel!!!] clap clap meeee
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 didz [Supr dupr view up heer] clap clap meeee
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 didz [Yummy yummy] clap clap meeee
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 didz [2 by 2 iz 4?] clap clap meeee
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Stoen Aeg]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 didz [Haw did we get 'ere¿] clap clap meeee
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 didz [360 no scope] clap clap meeee
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [A Famiwar Wooooom]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Spoopy Scury Skele-ton]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 didz [2 by 2 iz 4?] clap clap meeee
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 didz [2 Birbz, 1 Errow] clap clap meeee
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Stoen Aeg]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Us needz 2 go deepurr]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [I am da Pilagur. Not U!]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Lehveleng UP]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Lite as a kitteh]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Kattical fihing]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Pres F to pey respectz]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 dids [Zoombye Medic] omg gg bro
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Kute Sniftehz!!]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Da city @ end]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Ize Bucket Chalendz]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Remut getawai]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [In2 fire]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [War oinks]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Hedshot som1]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [totl B-lokatiuon]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Scrachign post]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 didz [Arbalasticc] clap clap meeee
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Helo, I liek money]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 dids [Teh End... Agaen...] omg gg bro
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [I can haz irun]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 didz [2 Birbz, 1 Errow] clap clap meeee
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Us needz 2 go deepurr]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [fake LOLCAT!]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [I am da Pilagur. Not U!]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 dids [I get moneh im a star] omg gg bro
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Lehveleng UP]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Lite as a kitteh]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Kattical fihing]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Covr cat wit shin' diamonds]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Pres F to pey respectz]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 dids [Sky iz teh limit] omg gg bro
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 dids [Zoombye Medic] omg gg bro
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Bukkit²]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Kute Sniftehz!!]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Waks off]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Da city @ end]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Ize Bucket Chalendz]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [In da Begwiuning]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Remut getawai]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [In2 fire]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 dids [Haird HALP] omg gg bro
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [War oinks]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [crouch walk 100,000,000]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Hedshot som1]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [totl B-lokatiuon]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Scrachign post]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 didz [Arbalasticc] clap clap meeee
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Helo, I liek money]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 dids [Teh End... Agaen...] omg gg bro
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [I can haz irun]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [fake LOLCAT!]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 didz [Return 2 sendr] clap clap meeee
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 dids [I get moneh im a star] omg gg bro
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Cat dreams]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Covr cat wit shin' diamonds]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 dids [Sky iz teh limit] omg gg bro
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Bukkit²]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 dids [Throw in a Minetos] omg gg bro
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Waks off]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [In da Begwiuning]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 dids [Haird HALP] omg gg bro
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 dids [Kinda smartz] omg gg bro
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [crouch walk 100,000,000]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 didz [Return 2 sendr] clap clap meeee
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Cat dreams]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 dids [Throw in a Minetos] omg gg bro
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 dids [Kinda smartz] omg gg bro
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 didz [Bad Kettehs made ded] clap clap meeee
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Encater]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Gud smell]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [He Ded, Boi]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Aye Spai]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [R it bird?]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 didz [r u seriouz y u do dis] clap clap meeee
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 didz [This is the last one in the list] clap clap meeee
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 dids [After dieded] omg gg bro
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Lweft to Bloom]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Its dawrk in heeero :(]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Bad Kitteh deadmakr]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Hard and adorabawl]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Once upon teh taim...]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 didz [Bad Kettehs made ded] clap clap meeee
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Encater]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Gud smell]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [He Ded, Boi]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Aye Spai]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [R it bird?]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 didz [r u seriouz y u do dis] clap clap meeee
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 didz [This is the last one in the list] clap clap meeee
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 dids [After dieded] omg gg bro
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Lweft to Bloom]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Its dawrk in heeero :(]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Bad Kitteh deadmakr]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Hard and adorabawl]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Once upon teh taim...]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 didz [Catvenshuring Tiem] clap clap meeee
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [SEEDZ!]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Loong LoOong Agoo]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Kitteh caught da KUTE FISH]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Happi Birfday!! (づ^･ω･^)づ]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [IS THAT A SUPRA ?!!!!!]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Itz laiK hOm]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Rlly good tradr]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 dids [Errr-wik. Get it? LOL] omg gg bro
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Waks on]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [CATZ of musik]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 didz [Hero of the Cats] clap clap meeee
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Hidin under da couch]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 didz [V3wy Smawrt!!!] clap clap meeee
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Puzzwel Boxe]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 dids [Baconator 2000] omg gg bro
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [WUThering Heights]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 didz [ful uf fuuud] clap clap meeee
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 dids [Like vidweo gamez] omg gg bro
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 didz [Hiway thru hell] clap clap meeee
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [KNOLEGGE POWAH!]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [B our cat]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Wat a deel!]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [R it Balon?]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Got da drip]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 didz [Un-eZ Aliance] clap clap meeee
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [DEEMONDS!]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Not smartzzz]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Teh Heelin Powr for Frendship]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Terribl Fortrez]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [EYE thruwei pun]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Cwafty Cwafter Cwaftashunception]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [So Bewoooo]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Sticky Cat]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Ol' Betsey]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 didz [Covr meow in trash] clap clap meeee
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 didz [Catvenshuring Tiem] clap clap meeee
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [*LOUDZ whistzzz lsounnds]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [SEEDZ!]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Teh End?]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Da Parruts + da Batz]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Loong LoOong Agoo]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Kitteh caught da KUTE FISH]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Happi Birfday!! (づ^･ω･^)づ]
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 didz [Blowign da fandum away] clap clap meeee
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 didz [A Complet Cat-A-Log] clap clap meeee
+[13:53:18] [Server thread/INFO] (Minecraft) Player202 haz maed da atfancemend [Kitteh kant fly?]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [IS THAT A SUPRA ?!!!!!]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Itz laiK hOm]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Rlly good tradr]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 dids [Errr-wik. Get it? LOL] omg gg bro
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Waks on]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [CATZ of musik]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 didz [Hero of the Cats] clap clap meeee
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Hidin under da couch]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 didz [V3wy Smawrt!!!] clap clap meeee
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Puzzwel Boxe]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 dids [Baconator 2000] omg gg bro
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [WUThering Heights]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 didz [ful uf fuuud] clap clap meeee
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 dids [Like vidweo gamez] omg gg bro
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 didz [Hiway thru hell] clap clap meeee
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [KNOLEGGE POWAH!]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [B our cat]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Wat a deel!]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [R it Balon?]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Got da drip]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 didz [Un-eZ Aliance] clap clap meeee
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [DEEMONDS!]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Not smartzzz]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Teh Heelin Powr for Frendship]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Terribl Fortrez]
+[13:53:18] [Server thread/INFO] (Minecraft) [Player202: Granted 1517 atfancemends 2 Player202]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [EYE thruwei pun]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Cwafty Cwafter Cwaftashunception]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [So Bewoooo]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Sticky Cat]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Ol' Betsey]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 didz [Covr meow in trash] clap clap meeee
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [*LOUDZ whistzzz lsounnds]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Teh End?]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Da Parruts + da Batz]
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 didz [Blowign da fandum away] clap clap meeee
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 didz [A Complet Cat-A-Log] clap clap meeee
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Player202 haz maed da atfancemend [Kitteh kant fly?]
+[13:53:18] [Render thread/INFO] (Minecraft) Loaded 1517 advancements
+[13:53:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Granted 1517 atfancemends 2 Player202
+[13:53:24] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[13:53:24] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[13:53:24] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[13:53:24] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[14:03:32] [Server thread/INFO] (Minecraft) [Player202: Givn 1 [dwagon boos spon ec] 2 Player202]
+[14:03:32] [Render thread/INFO] (Minecraft) [System] [CHAT] Givn 1 [dwagon boos spon ec] 2 Player202
+[14:04:26] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[14:04:26] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[14:04:26] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[14:04:26] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[14:04:27] [Server thread/INFO] (Minecraft) Player202 lost connection: CYA
+[14:04:27] [Server thread/INFO] (Minecraft) Player202 leeft teh gaem
+[14:04:27] [Server thread/INFO] (Minecraft) Stopping singleplayer server as player logged out
+[14:04:27] [Server thread/INFO] (Minecraft) Stopping server
+[14:04:27] [Server thread/INFO] (Minecraft) Saving players
+[14:04:27] [Server thread/INFO] (Minecraft) Saving worlds
+[14:04:27] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[14:04:27] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[14:04:27] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[14:04:27] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (New World (2)): All chunks are saved
+[14:04:27] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:04:27] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:04:27] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage: All dimensions are saved
+[14:04:28] [Render thread/INFO] (Minecraft) Stopping!

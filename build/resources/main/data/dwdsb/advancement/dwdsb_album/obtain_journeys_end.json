@@ -1,0 +1,72 @@
+{
+  "parent": "dwdsb:dwdsb_album/obtain_lost_to_time",
+  "criteria": {
+    "rave": {
+      "conditions": {
+        "items": [
+          {
+            "items": "dwdsb:rave"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "star": {
+      "conditions": {
+        "items": [
+          {
+            "items": "dwdsb:star"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "sunset": {
+      "conditions": {
+        "items": [
+          {
+            "items": "dwdsb:sunset"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "waltz": {
+      "conditions": {
+        "items": [
+          {
+            "items": "dwdsb:waltz"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.dwdsb.obtain_journeys_end.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "dwdsb:star"
+    },
+    "title": {
+      "translate": "advancements.dwdsb.obtain_journeys_end.title"
+    }
+  },
+  "requirements": [
+    [
+      "star"
+    ],
+    [
+      "rave"
+    ],
+    [
+      "waltz"
+    ],
+    [
+      "sunset"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

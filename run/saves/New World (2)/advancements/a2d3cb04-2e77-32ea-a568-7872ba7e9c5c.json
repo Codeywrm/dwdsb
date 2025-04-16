@@ -1,0 +1,63 @@
+{
+  "dwdsb:recipes/tools/ember_smithing": {
+    "criteria": {
+      "has_disc_core": "2025-03-25 20:03:22 -0500"
+    },
+    "done": true
+  },
+  "dwdsb:recipes/tools/mirror_smithing": {
+    "criteria": {
+      "has_disc_core": "2025-03-25 20:03:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-03-25 20:03:12 -0500"
+    },
+    "done": true
+  },
+  "dwdsb:recipes/tools/rain_smithing": {
+    "criteria": {
+      "has_disc_core": "2025-03-25 20:03:22 -0500"
+    },
+    "done": true
+  },
+  "dwdsb:recipes/tools/wave_smithing": {
+    "criteria": {
+      "has_disc_core": "2025-03-25 20:03:22 -0500"
+    },
+    "done": true
+  },
+  "dwdsb:root": {
+    "criteria": {
+      "Have a musical item": "2025-03-25 20:03:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2025-03-25 20:03:15 -0500"
+    },
+    "done": false
+  },
+  "dwdsb:recipes/tools/lost_smithing": {
+    "criteria": {
+      "has_disc_core": "2025-03-25 20:03:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-03-25 20:03:12 -0500"
+    },
+    "done": true
+  },
+  "dwdsb:dwdsb_album/first_core": {
+    "criteria": {
+      "Unrefined Disc Core": "2025-03-25 20:03:22 -0500"
+    },
+    "done": true
+  },
+  "DataVersion": 4325
+}

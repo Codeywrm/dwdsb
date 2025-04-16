@@ -1,0 +1,8 @@
+{
+  "comparator_output": 11,
+  "description": {
+    "translate": "item.dwdsb.star.desc"
+  },
+  "length_in_seconds": 206,
+  "sound_event": "dwdsb:star"
+}

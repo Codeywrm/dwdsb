@@ -1,0 +1,137 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:goat_horn"
+    },
+    "title": {
+      "translate": "advancements.dwdsb.play_all_goat_horns.title"
+    },
+    "description": {
+      "translate": "advancements.dwdsb.play_all_goat_horns.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "dwdsb:instruments/play_goat_horn",
+  "criteria": {
+    "Admire": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "items": "minecraft:goat_horn",
+          "components": {
+            "minecraft:instrument": "minecraft:admire_goat_horn"
+          }
+        }
+      }
+    },
+    "Call": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "items": "minecraft:goat_horn",
+          "components": {
+            "minecraft:instrument": "minecraft:call_goat_horn"
+          }
+        }
+      }
+    },
+    "Dream": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "items": "minecraft:goat_horn",
+          "components": {
+            "minecraft:instrument": "minecraft:dream_goat_horn"
+          }
+        }
+      }
+    },
+    "Feel": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "items": "minecraft:goat_horn",
+          "components": {
+            "minecraft:instrument": "minecraft:feel_goat_horn"
+          }
+        }
+      }
+    },
+    "Ponder": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "items": "minecraft:goat_horn",
+          "components": {
+            "minecraft:instrument": "minecraft:ponder_goat_horn"
+          }
+        }
+      }
+    },
+    "Seek": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "items": "minecraft:goat_horn",
+          "components": {
+            "minecraft:instrument": "minecraft:seek_goat_horn"
+          }
+        }
+      }
+    },
+    "Sing": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "items": "minecraft:goat_horn",
+          "components": {
+            "minecraft:instrument": "minecraft:sing_goat_horn"
+          }
+        }
+      }
+    },
+    "Yearn": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "items": "minecraft:goat_horn",
+          "components": {
+            "minecraft:instrument": "minecraft:yearn_goat_horn"
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 100
+  },
+  "requirements": [
+    [
+      "Admire"
+    ],
+    [
+      "Call"
+    ],
+    [
+      "Dream"
+    ],
+    [
+      "Feel"
+    ],
+    [
+      "Ponder"
+    ],
+    [
+      "Seek"
+    ],
+    [
+      "Sing"
+    ],
+    [
+      "Yearn"
+    ]
+  ]
+}

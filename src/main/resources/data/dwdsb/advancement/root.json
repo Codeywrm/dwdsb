@@ -1,0 +1,35 @@
+{
+  "criteria": {
+    "Have a musical item": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#dwdsb:root_items"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "background": "minecraft:block/dark_oak_planks",
+    "description": {
+      "translate": "advancements.dwdsb.root.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:jukebox"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.dwdsb.root.title"
+    }
+  },
+  "requirements": [
+    [
+      "Have a musical item"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,74 @@
+{
+  "display": {
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false,
+    "frame": "goal",
+    "icon": {
+      "id": "dwdsb:diamond_whistle"
+    },
+    "title": {
+      "translate": "advancements.dwdsb.forge_whistles.title"
+    },
+    "description": {
+      "translate": "advancements.dwdsb.forge_whistles.description"
+    }
+  },
+  "parent": "dwdsb:instruments/find_whistle",
+  "criteria": {
+    "Amethyst Whistle": {
+      "conditions": {
+        "items": [
+          {
+            "items": "dwdsb:amethyst_whistle"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "Gold Whistle": {
+      "conditions": {
+        "items": [
+          {
+            "items": "dwdsb:gold_whistle"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "Diamond Whistle": {
+      "conditions": {
+        "items": [
+          {
+            "items": "dwdsb:diamond_whistle"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "Emerald Whistle": {
+      "conditions": {
+        "items": [
+          {
+            "items": "dwdsb:emerald_whistle"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "Amethyst Whistle"
+    ],
+    [
+      "Gold Whistle"
+    ],
+    [
+      "Diamond Whistle"
+    ],
+    [
+      "Emerald Whistle"
+    ]
+  ]
+}

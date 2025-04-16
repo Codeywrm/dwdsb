@@ -1,0 +1,60 @@
+{
+  "parent": "dwdsb:sherd_stuff/first_sherd",
+  "criteria": {
+    "Melody Pottery Sherd": {
+      "conditions": {
+        "items": [
+          {
+            "items": "dwdsb:melody_pottery_sherd"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "Record Pottery Sherd": {
+      "conditions": {
+        "items": [
+          {
+            "items": "dwdsb:record_pottery_sherd"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "Solo Pottery Sherd": {
+      "conditions": {
+        "items": [
+          {
+            "items": "dwdsb:solo_pottery_sherd"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.dwdsb.dwdsb_sherds.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "count": 1,
+      "id": "dwdsb:record_pottery_sherd"
+    },
+    "title": {
+      "translate": "advancements.dwdsb.dwdsb_sherds.title"
+    }
+  },
+  "requirements": [
+    [
+      "Melody Pottery Sherd"
+    ],
+    [
+      "Record Pottery Sherd"
+    ],
+    [
+      "Solo Pottery Sherd"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

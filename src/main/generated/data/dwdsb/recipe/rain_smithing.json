@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:glow_berries",
+  "base": "minecraft:netherite_scrap",
+  "result": {
+    "count": 1,
+    "id": "dwdsb:rain"
+  },
+  "template": "dwdsb:disc_core"
+}

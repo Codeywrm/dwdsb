@@ -1,0 +1,35 @@
+{
+	"schemaVersion": 1,
+	"id": "dwdsb",
+	"version": "1.6.5",
+	"name": "Discs Where Discs Shouldn't Be",
+	"description": "A vanilla-styled mod that adds 14 unique music discs into the game!",
+	"authors": [
+		"Codewyrm",
+		"Sir Thomas Jakuus"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/mod/dwdsb",
+		"sources": "https://github.com/Codeywrm/dwdsb"
+	},
+	"license": "MIT",
+	"icon": "assets/dwdsb/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.codewyrm.dwdsb.Dwdsb"
+		],
+		"fabric-datagen": [
+			"net.codewyrm.dwdsb.DwdsbDataGenerator"
+		]
+	},
+	"mixins": [
+		"dwdsb.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "=1.21.5",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

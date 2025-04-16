@@ -1,0 +1,33 @@
+{
+  "parent": "dwdsb:vanilla_album/obtain_trial_chamber_discs",
+  "criteria": {
+    "Pigstep": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:music_disc_pigstep"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.dwdsb.obtain_pigstep.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:music_disc_pigstep"
+    },
+    "title": {
+      "translate": "advancements.dwdsb.obtain_pigstep.title"
+    }
+  },
+  "requirements": [
+    [
+      "Pigstep"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

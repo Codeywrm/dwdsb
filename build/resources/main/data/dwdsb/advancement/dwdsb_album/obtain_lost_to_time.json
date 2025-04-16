@@ -1,0 +1,59 @@
+{
+  "parent": "dwdsb:dwdsb_album/obtain_going_deeper",
+  "criteria": {
+    "bean": {
+      "conditions": {
+        "items": [
+          {
+            "items": "dwdsb:bean"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "ember": {
+      "conditions": {
+        "items": [
+          {
+            "items": "dwdsb:ember"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "lyre": {
+      "conditions": {
+        "items": [
+          {
+            "items": "dwdsb:lyre"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.dwdsb.obtain_lost_to_time.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "dwdsb:bean"
+    },
+    "title": {
+      "translate": "advancements.dwdsb.obtain_lost_to_time.title"
+    }
+  },
+  "requirements": [
+    [
+      "bean"
+    ],
+    [
+      "lyre"
+    ],
+    [
+      "ember"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

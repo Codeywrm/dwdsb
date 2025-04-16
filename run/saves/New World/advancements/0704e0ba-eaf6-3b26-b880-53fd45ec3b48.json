@@ -1,0 +1,153 @@
+{
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-11 09:50:56 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-11 09:50:56 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-11 09:50:56 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-11 09:50:56 -0500"
+    },
+    "done": true
+  },
+  "dwdsb:dwdsb_album/obtain_dwdsb_discs": {
+    "criteria": {
+      "get_ember": "2025-03-11 09:51:02 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-11 09:50:56 -0500"
+    },
+    "done": true
+  },
+  "dwdsb:recipes/tools/ember_smithing": {
+    "criteria": {
+      "has_disc_core": "2025-03-11 09:50:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-11 09:50:56 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-11 09:50:56 -0500"
+    },
+    "done": true
+  },
+  "dwdsb:recipes/tools/mirror_smithing": {
+    "criteria": {
+      "has_disc_core": "2025-03-11 09:50:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-03-11 09:50:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-11 09:50:56 -0500"
+    },
+    "done": true
+  },
+  "dwdsb:vanilla_album/first_vanilla_disc": {
+    "criteria": {
+      "Any C418 music disc": "2025-03-11 09:50:10 -0500"
+    },
+    "done": true
+  },
+  "dwdsb:recipes/tools/rain_smithing": {
+    "criteria": {
+      "has_disc_core": "2025-03-11 09:50:20 -0500"
+    },
+    "done": true
+  },
+  "dwdsb:recipes/tools/wave_smithing": {
+    "criteria": {
+      "has_disc_core": "2025-03-11 09:50:20 -0500"
+    },
+    "done": true
+  },
+  "dwdsb:root": {
+    "criteria": {
+      "Have a musical item": "2025-03-11 09:50:10 -0500"
+    },
+    "done": true
+  },
+  "dwdsb:vanilla_album/obtain_vanilla_discs": {
+    "criteria": {
+      "get_chirp": "2025-03-11 09:50:10 -0500"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:stony_shore": "2025-03-11 09:50:11 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-03-11 09:50:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-11 09:50:56 -0500"
+    },
+    "done": true
+  },
+  "dwdsb:recipes/tools/lost_smithing": {
+    "criteria": {
+      "has_disc_core": "2025-03-11 09:50:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-11 09:50:56 -0500"
+    },
+    "done": true
+  },
+  "dwdsb:dwdsb_album/first_core": {
+    "criteria": {
+      "Unrefined Disc Core": "2025-03-11 09:50:20 -0500"
+    },
+    "done": true
+  },
+  "dwdsb:dwdsb_album/obtain_lost_to_time": {
+    "criteria": {
+      "ember": "2025-03-11 09:51:02 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-11 09:50:56 -0500"
+    },
+    "done": true
+  },
+  "DataVersion": 4189
+}

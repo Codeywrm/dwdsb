@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "template/item/test",
+		"particle": "template/item/test"
+	}
+}

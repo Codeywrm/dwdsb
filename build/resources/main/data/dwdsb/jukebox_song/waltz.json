@@ -1,0 +1,8 @@
+{
+  "comparator_output": 13,
+  "description": {
+    "translate": "item.dwdsb.waltz.desc"
+  },
+  "length_in_seconds": 166,
+  "sound_event": "dwdsb:waltz"
+}

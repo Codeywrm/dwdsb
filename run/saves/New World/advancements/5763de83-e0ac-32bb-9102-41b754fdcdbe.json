@@ -1,0 +1,63 @@
+{
+  "dwdsb:recipes/tools/ember_smithing": {
+    "criteria": {
+      "has_unrefined_disc_core": "2025-03-11 09:47:56 -0500"
+    },
+    "done": true
+  },
+  "dwdsb:recipes/tools/mirror_smithing": {
+    "criteria": {
+      "has_unrefined_disc_core": "2025-03-11 09:47:56 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-03-11 09:47:56 -0500"
+    },
+    "done": true
+  },
+  "dwdsb:vanilla_album/first_vanilla_disc": {
+    "criteria": {
+      "Any C418 music disc": "2025-03-11 09:47:56 -0500"
+    },
+    "done": true
+  },
+  "dwdsb:recipes/tools/rain_smithing": {
+    "criteria": {
+      "has_unrefined_disc_core": "2025-03-11 09:47:56 -0500"
+    },
+    "done": true
+  },
+  "dwdsb:recipes/tools/wave_smithing": {
+    "criteria": {
+      "has_unrefined_disc_core": "2025-03-11 09:47:56 -0500"
+    },
+    "done": true
+  },
+  "dwdsb:root": {
+    "criteria": {
+      "Have a musical item": "2025-03-11 09:47:56 -0500"
+    },
+    "done": true
+  },
+  "dwdsb:vanilla_album/obtain_vanilla_discs": {
+    "criteria": {
+      "get_chirp": "2025-03-11 09:47:56 -0500"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:desert": "2025-03-11 09:47:57 -0500"
+    },
+    "done": false
+  },
+  "dwdsb:recipes/tools/lost_smithing": {
+    "criteria": {
+      "has_unrefined_disc_core": "2025-03-11 09:47:56 -0500"
+    },
+    "done": true
+  },
+  "DataVersion": 4189
+}

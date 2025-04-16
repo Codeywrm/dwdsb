@@ -1,0 +1,8 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "item.dwdsb.wave.desc"
+  },
+  "length_in_seconds": 127,
+  "sound_event": "dwdsb:wave"
+}

@@ -1,0 +1,28 @@
+{
+  "parent": "dwdsb:root",
+  "criteria": {
+    "Unrefined Disc Core": {
+      "conditions": {
+        "items": [
+          {
+            "items": "dwdsb:disc_core"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.dwdsb.first_core.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "dwdsb:disc_core"
+    },
+    "title": {
+      "translate": "advancements.dwdsb.first_core.title"
+    }
+  },
+  "sends_telemetry_event": true
+}
