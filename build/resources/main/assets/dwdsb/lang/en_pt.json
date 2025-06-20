@@ -106,6 +106,9 @@
   "advancements.dwdsb.obtain_pigstep.title": "A pirate’s life for me",
   "advancements.dwdsb.obtain_pigstep.description": "Yo ho, yo ho, a pirate’s life for me...",
 
+  "advancements.dwdsb.obtain_tears.title": "A hundred years ago",
+  "advancements.dwdsb.obtain_tears.description": "Well a hundred years on the eastern shore...",
+
   "advancements.dwdsb.obtain_relic.title": "Homeward bound",
   "advancements.dwdsb.obtain_relic.description": "Oh, fare you well...",
 
@@ -115,7 +118,7 @@
   "advancements.dwdsb.obtain_vanilla_discs.title": "Spanish ladies",
   "advancements.dwdsb.obtain_vanilla_discs.description": "Farewell and adieu, to you Spanish ladies...",
 
-  "** comment_6 **": "Subtitles",
+  "": "Subtitles",
   "subtitle.dwdsb.ancient_jingle.description": "Ye ol' tootin' horn whistles",
   "subtitle.dwdsb.amethyst_jingle.description": "Tootin' horn o' gem rings",
   "subtitle.dwdsb.gold_jingle.description": "Tootin' horn o' hold bellows",

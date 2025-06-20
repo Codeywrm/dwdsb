@@ -3,7 +3,6 @@
   "addition": "minecraft:amethyst_shard",
   "base": "minecraft:copper_ingot",
   "result": {
-    "count": 1,
     "id": "dwdsb:amethyst_whistle"
   },
   "template": "dwdsb:ancient_whistle"

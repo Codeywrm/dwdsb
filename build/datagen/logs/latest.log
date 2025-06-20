@@ -1,83 +1,79 @@
-[14:36:42] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.21.4 with Fabric Loader 0.16.9
-[14:36:42] [main/INFO] (FabricLoader) Loading 54 mods:
-	- dwdsb 1.6.4
-	- fabric-api 0.112.0+1.21.4
-	- fabric-api-base 0.4.53+453d4f9104
-	- fabric-api-lookup-api-v1 1.6.85+b1caf1e904
-	- fabric-biome-api-v1 15.0.5+b1caf1e904
-	- fabric-block-api-v1 1.0.31+7feeb73304
-	- fabric-block-view-api-v2 1.0.19+7feeb73304
-	- fabric-blockrenderlayer-v1 2.0.7+7feeb73304
-	- fabric-client-tags-api-v1 1.1.28+20ea1e2304
-	- fabric-command-api-v1 1.2.61+f71b366f04
-	- fabric-command-api-v2 2.2.40+e496eb1504
-	- fabric-commands-v0 0.2.78+df3654b304
-	- fabric-content-registries-v0 9.1.13+7feeb73304
-	- fabric-convention-tags-v1 2.1.7+7f945d5b04
-	- fabric-convention-tags-v2 2.9.7+b1caf1e904
-	- fabric-crash-report-info-v1 0.3.6+7feeb73304
-	- fabric-data-attachment-api-v1 1.4.4+9aea556b04
-	- fabric-data-generation-api-v1 22.2.0+20ea1e2304
-	- fabric-dimensions-v1 4.0.10+7feeb73304
-	- fabric-entity-events-v1 2.0.11+60fccc7604
-	- fabric-events-interaction-v0 4.0.1+a4eebcf004
-	- fabric-game-rule-api-v1 1.0.62+7feeb73304
-	- fabric-gametest-api-v1 2.0.20+7feeb73304
-	- fabric-item-api-v1 11.1.13+203e6b2304
-	- fabric-item-group-api-v1 4.1.22+7feeb73304
-	- fabric-key-binding-api-v1 1.0.56+7feeb73304
-	- fabric-keybindings-v0 0.2.54+df3654b304
-	- fabric-lifecycle-events-v1 2.5.3+bf2a60eb04
-	- fabric-loot-api-v2 3.0.32+3f89f5a504
-	- fabric-loot-api-v3 1.0.20+203e6b2304
-	- fabric-message-api-v1 6.0.24+7feeb73304
-	- fabric-model-loading-api-v1 4.1.0+7b6b225304
-	- fabric-networking-api-v1 4.3.8+cc0fa2fe04
-	- fabric-object-builder-api-v1 18.0.6+e604fe7f04
-	- fabric-particles-v1 4.0.13+7feeb73304
-	- fabric-recipe-api-v1 8.0.4+b1caf1e904
-	- fabric-registry-sync-v0 6.1.0+9ba00ebb04
-	- fabric-renderer-api-v1 5.0.1+84404cdd04
-	- fabric-renderer-indigo 2.0.1+84404cdd04
-	- fabric-rendering-data-attachment-v1 0.3.57+73761d2e04
-	- fabric-rendering-fluids-v1 3.1.18+7feeb73304
-	- fabric-rendering-v1 10.1.1+b874120c04
-	- fabric-resource-conditions-api-v1 5.0.13+203e6b2304
-	- fabric-resource-loader-v0 3.0.11+b1caf1e904
-	- fabric-screen-api-v1 2.0.37+7feeb73304
-	- fabric-screen-handler-api-v1 1.3.107+7feeb73304
-	- fabric-sound-api-v1 1.0.32+7feeb73304
-	- fabric-tag-api-v1 1.0.1+20ea1e2304
-	- fabric-transfer-api-v1 5.4.7+b1caf1e904
-	- fabric-transitive-access-wideners-v1 6.3.2+56e78b9b04
-	- fabricloader 0.16.9
+[18:53:50] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.21.6 with Fabric Loader 0.16.14
+[18:53:50] [main/INFO] (FabricLoader) Loading 49 mods:
+	- dwdsb 1.6.6
+	- fabric-api 0.127.0+1.21.6
+	- fabric-api-base 0.4.63+9ec45cd89c
+	- fabric-api-lookup-api-v1 1.6.99+9ec45cd89c
+	- fabric-biome-api-v1 16.0.10+fa6cb72b9c
+	- fabric-block-api-v1 1.1.2+78dbe4fb9c
+	- fabric-block-view-api-v2 1.0.30+d32f812d9c
+	- fabric-client-gametest-api-v1 4.2.3+458b8c9a9c
+	- fabric-command-api-v2 2.2.52+b39a696a9c
+	- fabric-content-registries-v0 10.0.17+fa6cb72b9c
+	- fabric-convention-tags-v1 2.1.37+7f945d5b9c
+	- fabric-convention-tags-v2 2.15.2+d9a896309c
+	- fabric-crash-report-info-v1 0.3.14+fa6cb72b9c
+	- fabric-data-attachment-api-v1 1.8.8+d9a896309c
+	- fabric-data-generation-api-v1 23.2.0+a12c79229c
+	- fabric-dimensions-v1 4.0.18+75fa737a9c
+	- fabric-entity-events-v1 2.1.0+c9e472739c
+	- fabric-events-interaction-v0 4.0.22+0d4d74479c
+	- fabric-game-rule-api-v1 1.0.71+9ec45cd89c
+	- fabric-gametest-api-v1 3.1.8+39ce47f59c
+	- fabric-item-api-v1 11.4.2+5e29f1899c
+	- fabric-item-group-api-v1 4.2.12+9ec45cd89c
+	- fabric-key-binding-api-v1 1.0.64+9ec45cd89c
+	- fabric-lifecycle-events-v1 2.6.2+db4dfd859c
+	- fabric-loot-api-v2 3.0.54+3f89f5a59c
+	- fabric-loot-api-v3 2.0.1+f40817309c
+	- fabric-message-api-v1 6.1.0+8efa0e499c
+	- fabric-model-loading-api-v1 5.2.4+ae8be2b89c
+	- fabric-networking-api-v1 5.0.0+d32f812d9c
+	- fabric-object-builder-api-v1 21.1.5+946cf7899c
+	- fabric-particles-v1 4.1.6+c1dce2189c
+	- fabric-recipe-api-v1 8.1.13+39ce47f59c
+	- fabric-registry-sync-v0 6.1.25+9ec45cd89c
+	- fabric-renderer-api-v1 7.0.1+a0cfcc829c
+	- fabric-renderer-indigo 4.0.1+2516f2229c
+	- fabric-rendering-fluids-v1 3.1.29+fa6cb72b9c
+	- fabric-rendering-v1 12.3.0+ac3e15d19c
+	- fabric-resource-conditions-api-v1 5.0.23+908cbc919c
+	- fabric-resource-loader-v0 3.1.10+fa6cb72b9c
+	- fabric-screen-api-v1 2.0.50+908cbc919c
+	- fabric-screen-handler-api-v1 1.3.134+d32f812d9c
+	- fabric-sound-api-v1 1.0.41+d32f812d9c
+	- fabric-tag-api-v1 1.2.0+75110b049c
+	- fabric-transfer-api-v1 6.0.4+074c84ee9c
+	- fabric-transitive-access-wideners-v1 6.4.0+ac3e15d19c
+	- fabricloader 0.16.14
 	- java 21
-	- minecraft 1.21.4
+	- minecraft 1.21.6
 	- mixinextras 0.4.1
-[14:36:42] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/Anthony/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/6a12aacc794f1078458433116e9ed42c1cc98096/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=CLIENT
-[14:36:42] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
-[14:36:42] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_21
-[14:36:43] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[14:36:44] [Datafixer Bootstrap/INFO] (Minecraft) 243 Datafixer optimizations took 318 milliseconds
-[14:36:48] [Render thread/INFO] (Minecraft) Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[14:36:48] [Render thread/INFO] (Minecraft) Setting user: Player424
-[14:36:48] [Render thread/INFO] (DWDSB) [1/5] Registered items successfully!
-[14:36:48] [Render thread/INFO] (DWDSB) [2/5] Registered sounds successfully!
-[14:36:48] [Render thread/INFO] (DWDSB) [3/5] Loot tables modified successfully!
-[14:36:48] [Render thread/INFO] (DWDSB) [4/4] Trades modified successfully!
-[14:36:48] [Render thread/INFO] (DWDSB) [5/5] Registered Item Group successfully!
-[14:36:48] [Render thread/INFO] (DWDSB) All  content loaded. Ready for some killer beats?
-[14:36:48] [Render thread/INFO] (Indigo) [Indigo] Registering Indigo renderer!
-[14:36:48] [Render thread/INFO] (FabricDataGenHelper) Running data generator for dwdsb
-[14:36:48] [Render thread/INFO] (DWDSB DataGen) [1/3] All models created.
-[14:36:48] [Render thread/INFO] (DWDSB DataGen) [2/3] All recipes created.
-[14:36:48] [Render thread/INFO] (DWDSB DataGen) [3/3] All tags created.
-[14:36:48] [Render thread/INFO] (DWDSB DataGen) All data generated.
-[14:36:48] [Render thread/INFO] (Minecraft) Starting provider: Discs Where Discs Shouldn't Be/Model Definitions
-[14:36:48] [Render thread/INFO] (Minecraft) Discs Where Discs Shouldn't Be/Model Definitions finished after 50 ms
-[14:36:48] [Render thread/INFO] (Minecraft) Starting provider: Discs Where Discs Shouldn't Be/
-[14:36:48] [Render thread/INFO] (Minecraft) Discs Where Discs Shouldn't Be/ finished after 168 ms
-[14:36:48] [Render thread/INFO] (Minecraft) Starting provider: Discs Where Discs Shouldn't Be/Tags for minecraft:item
-[14:36:48] [Render thread/INFO] (Minecraft) Discs Where Discs Shouldn't Be/Tags for minecraft:item finished after 8 ms
-[14:36:48] [Render thread/INFO] (Minecraft) All providers took: 228 ms
-[14:36:48] [Render thread/INFO] (Minecraft) Caching: total files: 69, old count: 0, new count: 70, removed stale: 0, written: 69
+[18:53:50] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/Anthony/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/22f9eb729e216a091673a574a5906dc1b9027fb3/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=CLIENT
+[18:53:50] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
+[18:53:50] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_21
+[18:53:51] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[18:53:52] [Datafixer Bootstrap/INFO] (Minecraft) 269 Datafixer optimizations took 348 milliseconds
+[18:53:52] [main/WARN] (PerfmonDisabled) Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
+[18:53:55] [Render thread/INFO] (Minecraft) Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:53:55] [Render thread/INFO] (Minecraft) Setting user: Player55
+[18:53:55] [Render thread/INFO] (DWDSB) [1/5] Registered items successfully!
+[18:53:55] [Render thread/INFO] (DWDSB) [2/5] Registered sounds successfully!
+[18:53:55] [Render thread/INFO] (DWDSB) [3/5] Loot tables modified successfully!
+[18:53:56] [Render thread/INFO] (DWDSB) [4/5] Trades modified successfully!
+[18:53:56] [Render thread/INFO] (DWDSB) [5/5] Registered Item Group successfully!
+[18:53:56] [Render thread/INFO] (DWDSB) All content loaded. Ready for some killer beats?
+[18:53:56] [Render thread/INFO] (Indigo) [Indigo] Registering Indigo renderer!
+[18:53:56] [Render thread/INFO] (FabricDataGenHelper) Running data generator for dwdsb
+[18:53:56] [Render thread/INFO] (DWDSB DataGen) [1/3] All models created.
+[18:53:56] [Render thread/INFO] (DWDSB DataGen) [2/3] All recipes created.
+[18:53:56] [Render thread/INFO] (DWDSB DataGen) [3/3] All tags created.
+[18:53:56] [Render thread/INFO] (DWDSB DataGen) All data generated.
+[18:53:56] [Render thread/INFO] (Minecraft) Starting provider: Discs Where Discs Shouldn't Be/Model Definitions
+[18:53:56] [Render thread/INFO] (Minecraft) Discs Where Discs Shouldn't Be/Model Definitions finished after 47 ms
+[18:53:56] [Render thread/INFO] (Minecraft) Starting provider: Discs Where Discs Shouldn't Be/
+[18:53:56] [Render thread/INFO] (Minecraft) Discs Where Discs Shouldn't Be/ finished after 162 ms
+[18:53:56] [Render thread/INFO] (Minecraft) Starting provider: Discs Where Discs Shouldn't Be/Tags for minecraft:item
+[18:53:56] [Render thread/INFO] (Minecraft) Discs Where Discs Shouldn't Be/Tags for minecraft:item finished after 8 ms
+[18:53:56] [Render thread/INFO] (Minecraft) All providers took: 220 ms
+[18:53:56] [Render thread/INFO] (Minecraft) Caching: total files: 69, old count: 0, new count: 70, removed stale: 0, written: 69

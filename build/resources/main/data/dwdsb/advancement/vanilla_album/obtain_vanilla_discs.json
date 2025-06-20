@@ -131,6 +131,16 @@
       },
       "trigger": "minecraft:inventory_changed"
     },
+    "get_tears": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:music_disc_tears"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
     "get_precipice": {
       "conditions": {
         "items": [
@@ -263,6 +273,9 @@
     ],
     [
       "get_pigstep"
+    ],
+    [
+      "get_tears"
     ]
   ],
   "rewards": {

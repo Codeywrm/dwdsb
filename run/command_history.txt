@@ -1,14 +1,3 @@
-/tp @s 1392 ~ -2176
-/gamemode spectator
-/gamemode creative
-/locate structure minecraft:desert_pyramid
-/tp @s 5888 ~ 368
-/advancement grant Player658
-/advancement grant Player658 everything
-/advancement grant Player463 everything
-/advancement grant Player341 everything
-/advancement grant Player38 everything
-/advancement grant Player109 everything
 /advancement grant Player540 everything
 /advancement grant Player704 everything
 /advancement grant Player408 everything
@@ -48,3 +37,14 @@
 /advancement grant Player161 everything
 /advancement grant Player202 everything
 /give Player202 minecraft:ender_dragon_spawn_egg
+/playsound dwdsb:ancient_jingle
+/time set night
+/locate biome minecraft:swamp
+/tp @s 951 80 1742
+/advancement grant Player611 everything
+/advancement grant Player606 everything
+/advancement grant Player805 everything
+/advancement grant Player687 everything
+/advancement grant Player613 everything
+/advancement grant Player921 everything
+/advancement grant Player959 everything

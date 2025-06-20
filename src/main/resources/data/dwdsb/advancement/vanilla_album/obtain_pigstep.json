@@ -1,5 +1,5 @@
 {
-  "parent": "dwdsb:vanilla_album/obtain_trial_chamber_discs",
+  "parent": "dwdsb:vanilla_album/obtain_tears",
   "criteria": {
     "Pigstep": {
       "conditions": {

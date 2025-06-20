@@ -1,5 +1,13 @@
 {
   "values": [
+    "minecraft:note_block",
+    "minecraft:jukebox",
+    "minecraft:goat_horn",
+    "minecraft:bell",
+    "dwdsb:disc_core",
+    "dwdsb:melody_pottery_sherd",
+    "dwdsb:record_pottery_sherd",
+    "dwdsb:solo_pottery_sherd",
     {
       "id": "#dwdsb:vanilla_discs",
       "required": false
@@ -11,14 +19,6 @@
     {
       "id": "#dwdsb:whistles",
       "required": false
-    },
-    "minecraft:note_block",
-    "minecraft:jukebox",
-    "minecraft:goat_horn",
-    "minecraft:bell",
-    "dwdsb:disc_core",
-    "dwdsb:melody_pottery_sherd",
-    "dwdsb:record_pottery_sherd",
-    "dwdsb:solo_pottery_sherd"
+    }
   ]
 }
