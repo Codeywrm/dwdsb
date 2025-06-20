@@ -3,7 +3,6 @@
   "addition": "minecraft:gold_ingot",
   "base": "minecraft:copper_ingot",
   "result": {
-    "count": 1,
     "id": "dwdsb:gold_whistle"
   },
   "template": "dwdsb:ancient_whistle"

@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:diamond_whistle_smithing"
+        "recipe": "dwdsb:diamond_whistle_smithing"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
@@ -26,7 +26,7 @@
   ],
   "rewards": {
     "recipes": [
-      "minecraft:diamond_whistle_smithing"
+      "dwdsb:diamond_whistle_smithing"
     ]
   }
 }

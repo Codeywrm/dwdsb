@@ -4,9 +4,12 @@ import net.fabricmc.fabric.api.client.datagen.v1.provider.FabricModelProvider;
 import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
 import net.minecraft.client.data.BlockStateModelGenerator;
 import net.minecraft.client.data.ItemModelGenerator;
+import net.minecraft.item.Item;
+
+import java.util.Arrays;
 
 import static net.codewyrm.dwdsb.registry.ItemRegistry.*;
-import static net.minecraft.client.data.Models.*;
+import static net.minecraft.client.data.Models.GENERATED;
 
 public class ModModelProvider extends FabricModelProvider {
 
@@ -16,39 +19,25 @@ public class ModModelProvider extends FabricModelProvider {
 
     @Override
     public void generateBlockStateModels(BlockStateModelGenerator blockStateModelGenerator) {
-
     }
 
     @Override
     public void generateItemModels(ItemModelGenerator itemModelGenerator) {
-        itemModelGenerator.register(DISC_CORE, GENERATED);
 
-        itemModelGenerator.register(MELODY_POTTERY_SHERD, GENERATED);
-        itemModelGenerator.register(RECORD_POTTERY_SHERD, GENERATED);
-        itemModelGenerator.register(SOLO_POTTERY_SHERD, GENERATED);
+        for (Item item : Arrays.asList(
+                DISC_CORE, WAVE, LOST, WATCHED, REST,
+                MIRROR, RAIN, ALONE, BEAN, LYRE,
+                EMBER, STAR, RAVE, WALTZ, SUNSET,
+                MELODY_POTTERY_SHERD,
+                RECORD_POTTERY_SHERD,
+                SOLO_POTTERY_SHERD
+        ))
+            itemModelGenerator.register(item, GENERATED);
 
-        itemModelGenerator.registerWithInHandModel(ANCIENT_WHISTLE);
-        itemModelGenerator.registerWithInHandModel(AMETHYST_WHISTLE);
-        itemModelGenerator.registerWithInHandModel(GOLD_WHISTLE);
-        itemModelGenerator.registerWithInHandModel(DIAMOND_WHISTLE);
-        itemModelGenerator.registerWithInHandModel(EMERALD_WHISTLE);
-
-        itemModelGenerator.register(WAVE, GENERATED);
-        itemModelGenerator.register(LOST, GENERATED);
-        itemModelGenerator.register(WATCHED, GENERATED);
-        itemModelGenerator.register(REST, GENERATED);
-
-        itemModelGenerator.register(MIRROR, GENERATED);
-        itemModelGenerator.register(RAIN, GENERATED);
-        itemModelGenerator.register(ALONE, GENERATED);
-
-        itemModelGenerator.register(BEAN, GENERATED);
-        itemModelGenerator.register(LYRE, GENERATED);
-        itemModelGenerator.register(EMBER, GENERATED);
-
-        itemModelGenerator.register(STAR, GENERATED);
-        itemModelGenerator.register(RAVE, GENERATED);
-        itemModelGenerator.register(WALTZ, GENERATED);
-        itemModelGenerator.register(SUNSET, GENERATED);
+        for (Item item_hand : Arrays.asList(
+                ANCIENT_WHISTLE, AMETHYST_WHISTLE, GOLD_WHISTLE,
+                DIAMOND_WHISTLE, EMERALD_WHISTLE
+        ))
+            itemModelGenerator.registerWithInHandModel(item_hand);
     }
 }

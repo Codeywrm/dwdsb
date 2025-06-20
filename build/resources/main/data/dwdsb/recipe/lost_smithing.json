@@ -3,7 +3,6 @@
   "addition": "minecraft:echo_shard",
   "base": "minecraft:netherite_scrap",
   "result": {
-    "count": 1,
     "id": "dwdsb:lost"
   },
   "template": "dwdsb:disc_core"

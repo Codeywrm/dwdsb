@@ -1,7 +1,10 @@
 package net.codewyrm.dwdsb;
 
-import net.codewyrm.dwdsb.registry.*;
-import net.codewyrm.dwdsb.util.*;
+import net.codewyrm.dwdsb.registry.ItemGroupRegistry;
+import net.codewyrm.dwdsb.registry.ItemRegistry;
+import net.codewyrm.dwdsb.registry.SoundRegistry;
+import net.codewyrm.dwdsb.util.LootTableModifier;
+import net.codewyrm.dwdsb.util.TradeModifier;
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

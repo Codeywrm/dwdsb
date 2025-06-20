@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:lost_smithing"
+        "recipe": "dwdsb:lost_smithing"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
@@ -26,7 +26,7 @@
   ],
   "rewards": {
     "recipes": [
-      "minecraft:lost_smithing"
+      "dwdsb:lost_smithing"
     ]
   }
 }

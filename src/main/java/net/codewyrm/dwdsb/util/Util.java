@@ -1,7 +1,6 @@
 package net.codewyrm.dwdsb.util;
 
 import net.minecraft.util.Identifier;
-
 import java.util.Objects;
 
 public class Util {

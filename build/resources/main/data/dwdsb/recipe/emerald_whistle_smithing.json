@@ -3,7 +3,6 @@
   "addition": "minecraft:emerald",
   "base": "minecraft:copper_ingot",
   "result": {
-    "count": 1,
     "id": "dwdsb:emerald_whistle"
   },
   "template": "dwdsb:ancient_whistle"

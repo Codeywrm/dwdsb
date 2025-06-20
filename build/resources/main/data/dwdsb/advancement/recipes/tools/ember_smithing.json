@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:ember_smithing"
+        "recipe": "dwdsb:ember_smithing"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
@@ -26,7 +26,7 @@
   ],
   "rewards": {
     "recipes": [
-      "minecraft:ember_smithing"
+      "dwdsb:ember_smithing"
     ]
   }
 }

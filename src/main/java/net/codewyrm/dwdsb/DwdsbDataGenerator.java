@@ -1,6 +1,8 @@
 package net.codewyrm.dwdsb;
 
-import net.codewyrm.dwdsb.datagen.*;
+import net.codewyrm.dwdsb.datagen.ModModelProvider;
+import net.codewyrm.dwdsb.datagen.ModRecipeProvider;
+import net.codewyrm.dwdsb.datagen.ModTagProvider;
 import net.fabricmc.fabric.api.datagen.v1.DataGeneratorEntrypoint;
 import net.fabricmc.fabric.api.datagen.v1.FabricDataGenerator;
 import org.slf4j.Logger;
